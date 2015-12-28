@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Super Store Analyzer</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Super Store Analyzer">
+  <meta name="author" content="AKT">
+  <meta name="generator" content="slidify" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/default.css" media="all" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/phone.css" 
+    media="only screen and (max-device-width: 480px)" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
+  <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="./assets/css/ribbons.css"></link>
+
+  
+  <!-- Grab CDN jQuery, fall back to local if offline -->
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+  <script>window.jQuery || document.write('<script src="libraries/widgets/quiz/js/jquery.js"><\/script>')</script> 
+  <script data-main="libraries/frameworks/io2012/js/slides" 
+    src="libraries/frameworks/io2012/js/require-1.0.8.min.js">
+  </script>
+  
+  
+
+</head>
+<body style="opacity: 0">
+  <slides class="layout-widescreen">
+    
+    <!-- LOGO SLIDE -->
+        <slide class="title-slide segue nobackground">
+  <hgroup class="auto-fadein">
+    <h1>Super Store Analyzer</h1>
+    <h2>Developing Data Products</h2>
+    <p>AKT<br/></p>
+  </hgroup>
+  <article></article>  
+</slide>
+    
+
+    <!-- SLIDES -->
+    <slide class="" id="slide-1" style="background:;">
+  <hgroup>
+    <h2>Introduction</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>This presentation is part of the Course Project for the Coursera Developing Data Products class. The peer assessed assignment has two parts. </p>
+
+<p>First, we need to create a Shiny application and deploy it on Rstudio&#39;s servers.</p>
+
+<p>Link to App: <a href="https://adityaem.shinyapps.io/DSData_Products_Project">https://adityaem.shinyapps.io/DSData_Products_Project</a></p>
+
+<p>Link to src:<a href="https://github.com/adityaem/DSData_Products_Project/tree/master">https://github.com/adityaem/DSData_Products_Project/tree/master</a></p>
+
+<p>Second, we should use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about the application. </p>
+
+<p>This presentation adresses the second part of the course project.</p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>Objectives for Super Store Analyzer</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>Build a Shiny application leveraging UI controls integrated with efficient server side processing using reactive functions.
+The Application is intended for Product managers and the Sales Team to analyze performance by product and geographic location.
+We see the data is broken out by Year, Product Category,Sales Revenue, Quantity Sold and Number of Customers by State</p>
+
+<pre><code>##   YEAR    STATE     SALECAT SALES PROFIT CUSTOMERS QTY TOTCUST
+## 1 2011 illinois   Bookcases   918   -101        83  11      83
+## 2 2011 illinois      Chairs  2509   -311       132  19     132
+## 3 2011 illinois Furnishings   305   -210         9  33       9
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-3" style="background:;">
+  <hgroup>
+    <h2>Super Store Data Exploration</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>Review relationship between Categories and key metrics like sales , profits, qty &amp; number of customers</p>
+
+<div style='float:left;width:48%;' class='centered'>
+  <p><img src="figure/unnamed-chunk-2-1.png" alt="plot of chunk unnamed-chunk-2"> </p>
+
+</div>
+<div style='float:right;width:48%;'>
+  <p><img src="figure/unnamed-chunk-3-1.png" alt="plot of chunk unnamed-chunk-3"> </p>
+
+</div>
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>Why the Super Store Analyzer?</h2>
+  </hgroup>
+  <article data-timings="">
+    <ol>
+<li>Onestop shop for Super Store Performance Insights</li>
+<li>One of a kind Shiny Application</li>
+<li>Trend Analysis</li>
+</ol>
+
+<p>--Coming Phase II</p>
+
+<ol>
+<li>Forecasting by Product Category </li>
+<li>Segmentation</li>
+</ol>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+    <slide class="backdrop"></slide>
+  </slides>
+  <div class="pagination pagination-small" id='io2012-ptoc' style="display:none;">
+    <ul>
+      <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=1 title='Introduction'>
+         1
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=2 title='Objectives for Super Store Analyzer'>
+         2
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=3 title='Super Store Data Exploration'>
+         3
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=4 title='Why the Super Store Analyzer?'>
+         4
+      </a>
+    </li>
+  </ul>
+  </div>  <!--[if IE]>
+    <script 
+      src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js">  
+    </script>
+    <script>CFInstall.check({mode: 'overlay'});</script>
+  <![endif]-->
+</body>
+  <!-- Load Javascripts for Widgets -->
+  
+  <!-- LOAD HIGHLIGHTER JS FILES -->
+  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
+   
+  </html>

@@ -1,0 +1,66 @@
+---
+title       : Super Store Analyzer 
+subtitle    : Developing Data Products
+author      : AKT
+date        : December 28th 2015
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+
+
+## Introduction
+This presentation is part of the Course Project for the Coursera Developing Data Products class. The peer assessed assignment has two parts. 
+
+First, we need to create a Shiny application and deploy it on Rstudio's servers.
+
+Link to App: https://adityaem.shinyapps.io/DSData_Products_Project
+
+Link to src:https://github.com/adityaem/DSData_Products_Project/tree/master
+
+Second, we should use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about the application. 
+
+This presentation adresses the second part of the course project.
+
+--- .class #id 
+
+## Objectives for Super Store Analyzer
+Build a Shiny application leveraging UI controls integrated with efficient server side processing using reactive functions.
+The Application is intended for Product managers and the Sales Team to analyze performance by product and geographic location.
+We see the data is broken out by Year, Product Category,Sales Revenue, Quantity Sold and Number of Customers by State
+```{r echo=FALSE}
+dt <- read.csv('data/ssorders.agg.csv') 
+head(dt, n=3)
+```
+
+
+--- &twocol
+
+## Super Store Data Exploration
+Review relationship between Categories and key metrics like sales , profits, qty & number of customers
+*** =left
+```{r, echo=FALSE}
+library(ggplot2)
+ggplot(dt, aes(SALES, PROFIT))+geom_point(color="cadetblue")
+```
+*** =right
+```{r, echo=FALSE}
+qplot(dt$YEAR,dt$SALES,data=dt, color = dt$SALECAT)
+```
+
+--- .class #id 
+## Why the Super Store Analyzer?
+
+1. Onestop shop for Super Store Performance Insights
+2. One of a kind Shiny Application
+3. Trend Analysis
+
+--Coming Phase II
+
+1. Forecasting by Product Category 
+2. Segmentation
