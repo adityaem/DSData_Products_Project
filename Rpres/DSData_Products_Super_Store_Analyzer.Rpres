@@ -34,16 +34,29 @@ head(dt, n=3)
 Data & Background
 ========================================================
 type: section
+This demonstrates an interesting correlation between the different measures and overall sales performance.
 
-```{r, echo=FALSE}
+```{r, echo=TRUE}
 library(ggplot2)
 dt <- read.csv('data/ssorders.agg.csv')
 qplot(dt$YEAR,dt$SALES,data=dt, color = dt$SALECAT)
 ```
-This demonstrates an interesting correlation between the different measures and overall sales performance.
+
 
 Why the Super Store Analyzer?
 ========================================================
 type: section
 
-The Super Store Shiny Application can be used to identify the following key measures of a companies success
+The Super Store Shiny Application can be used to identify the following key measures of a companies success:
+
+1. If Specific Type of Products perfrom better or worse in specific states.
+2. If the number of customers has a direct correlation on Profit and Sales
+3. If a Products high sales directly correlates to Hiher profits.
+
+What should we be investing in and where should we be selling these products.
+
+Coming Soon...
+
+Predict Customer Growth by State
+Predict Sales by category
+Product Optimization and Branding Insights.
