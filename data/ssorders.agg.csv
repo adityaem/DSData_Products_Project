@@ -1,0 +1,1851 @@
+YEAR,STATE,SALECAT,SALES,PROFIT,CUSTOMERS,QTY,TOTCUST
+2011,illinois,Bookcases,918,-101,83,11,83
+2011,illinois,Chairs,2509,-311,132,19,132
+2011,illinois,Furnishings,305,-210,9,33,9
+2011,illinois,Tables,1749,-1098,83,21,83
+2011,illinois,Appliances,165,-388,15,11,15
+2011,illinois,Art,73,14,3,21,3
+2011,illinois,Binders,612,-1038,7,89,7
+2011,illinois,Envelopes,14,5,7,2,7
+2011,illinois,Fasteners,29,9,3,9,3
+2011,illinois,Labels,72,24,6,12,6
+2011,illinois,Paper,661,220,13,52,13
+2011,illinois,Storage,2898,-192,58,50,58
+2011,illinois,Supplies,22,3,11,2,11
+2011,illinois,Accessories,1737,351,42,41,42
+2011,illinois,Copiers,720,135,240,3,240
+2011,illinois,Machines,575,156,288,2,288
+2011,illinois,Phones,3144,379,165,19,165
+2011,indiana,Chairs,648,32,81,8,81
+2011,indiana,Furnishings,20,7,5,4,5
+2011,indiana,Appliances,207,58,19,11,19
+2011,indiana,Art,16,7,8,2,8
+2011,indiana,Binders,1133,511,162,7,162
+2011,indiana,Envelopes,142,66,13,11,13
+2011,indiana,Fasteners,6,0,2,3,2
+2011,indiana,Labels,4,2,4,1,4
+2011,indiana,Paper,140,65,11,13,11
+2011,indiana,Storage,556,96,79,7,79
+2011,indiana,Accessories,64,23,13,5,13
+2011,iowa,Tables,1185,107,296,4,296
+2011,iowa,Envelopes,6,3,2,3,2
+2011,kansas,Furnishings,41,13,21,2,21
+2011,kansas,Binders,332,149,166,2,166
+2011,kansas,Supplies,358,7,119,3,119
+2011,kansas,Accessories,57,11,11,5,11
+2011,kansas,Phones,532,86,133,4,133
+2011,michigan,Bookcases,213,57,71,3,71
+2011,michigan,Chairs,564,113,188,3,188
+2011,michigan,Furnishings,347,60,27,13,27
+2011,michigan,Appliances,481,143,40,12,40
+2011,michigan,Art,330,99,16,21,16
+2011,michigan,Binders,371,173,9,42,9
+2011,michigan,Envelopes,54,25,11,5,11
+2011,michigan,Fasteners,6,3,6,1,6
+2011,michigan,Labels,792,389,57,14,57
+2011,michigan,Paper,355,168,15,23,15
+2011,michigan,Storage,1811,229,86,21,86
+2011,michigan,Copiers,550,275,550,1,550
+2011,michigan,Phones,300,84,150,2,150
+2011,minnesota,Chairs,2482,662,207,12,207
+2011,minnesota,Appliances,1597,533,228,7,228
+2011,minnesota,Art,20,6,3,6,3
+2011,minnesota,Binders,9552,4679,415,23,415
+2011,minnesota,Paper,153,76,7,22,7
+2011,minnesota,Storage,1678,155,65,26,65
+2011,minnesota,Accessories,120,48,30,4,30
+2011,minnesota,Phones,282,79,94,3,94
+2011,missouri,Chairs,61,15,61,1,61
+2011,missouri,Furnishings,333,53,111,3,111
+2011,missouri,Art,30,12,4,7,4
+2011,missouri,Binders,88,41,9,10,9
+2011,missouri,Labels,15,7,5,3,5
+2011,missouri,Paper,37,18,6,6,6
+2011,missouri,Storage,903,229,226,4,226
+2011,missouri,Accessories,181,69,11,16,11
+2011,nebraska,Appliances,62,18,12,5,12
+2011,nebraska,Binders,15,8,8,2,8
+2011,nebraska,Paper,6,3,6,1,6
+2011,nebraska,Accessories,90,19,30,3,30
+2011,nebraska,Phones,36,10,18,2,18
+2011,oklahoma,Chairs,162,45,81,2,81
+2011,oklahoma,Furnishings,880,237,98,9,98
+2011,oklahoma,Tables,430,112,86,5,86
+2011,oklahoma,Appliances,472,156,79,6,79
+2011,oklahoma,Art,4,2,2,2,2
+2011,oklahoma,Binders,75,36,15,5,15
+2011,oklahoma,Paper,13,6,7,2,7
+2011,oklahoma,Storage,20,6,10,2,10
+2011,oklahoma,Phones,585,163,84,7,84
+2011,south dakota,Bookcases,142,40,71,2,71
+2011,south dakota,Binders,11,5,6,2,6
+2011,south dakota,Fasteners,7,3,2,3,2
+2011,south dakota,Accessories,3,1,1,3,1
+2011,texas,Bookcases,562,-130,80,7,80
+2011,texas,Chairs,11128,-574,139,80,139
+2011,texas,Furnishings,576,-418,8,76,8
+2011,texas,Tables,4422,-545,192,23,192
+2011,texas,Appliances,429,-1098,18,24,18
+2011,texas,Art,304,38,7,43,7
+2011,texas,Binders,3578,-5992,32,112,32
+2011,texas,Envelopes,1383,472,33,42,33
+2011,texas,Fasteners,75,2,3,30,3
+2011,texas,Labels,144,50,7,20,7
+2011,texas,Paper,980,340,9,113,9
+2011,texas,Storage,2503,-207,39,65,39
+2011,texas,Supplies,60,1,4,14,4
+2011,texas,Accessories,1718,162,31,56,31
+2011,texas,Copiers,2000,625,400,5,400
+2011,texas,Machines,15717,-2541,561,28,561
+2011,texas,Phones,5047,681,83,61,83
+2011,wisconsin,Chairs,3201,717,291,11,291
+2011,wisconsin,Furnishings,35,11,5,7,5
+2011,wisconsin,Appliances,246,69,41,6,41
+2011,wisconsin,Art,47,13,12,4,12
+2011,wisconsin,Binders,104,52,17,6,17
+2011,wisconsin,Labels,22,10,3,7,3
+2011,wisconsin,Storage,725,29,66,11,66
+2011,wisconsin,Accessories,469,206,78,6,78
+2011,connecticut,Chairs,1133,295,227,5,227
+2011,connecticut,Furnishings,27,10,14,2,14
+2011,connecticut,Tables,71,-4,71,1,71
+2011,connecticut,Appliances,79,22,26,3,26
+2011,connecticut,Art,26,8,4,7,4
+2011,connecticut,Binders,157,75,7,21,7
+2011,connecticut,Storage,96,10,32,3,32
+2011,connecticut,Supplies,12,3,4,3,4
+2011,connecticut,Phones,1193,327,133,9,133
+2011,delaware,Bookcases,1026,236,171,6,171
+2011,delaware,Furnishings,145,22,16,9,16
+2011,delaware,Appliances,39,11,39,1,39
+2011,delaware,Art,76,32,7,11,7
+2011,delaware,Binders,259,123,19,14,19
+2011,delaware,Labels,50,23,4,14,4
+2011,delaware,Paper,21,10,5,4,5
+2011,delaware,Storage,2934,792,419,7,419
+2011,delaware,Accessories,150,52,50,3,50
+2011,delaware,Machines,66,31,22,3,22
+2011,delaware,Phones,20,5,10,2,10
+2011,maine,Appliances,102,28,51,2,51
+2011,maine,Paper,260,125,20,13,20
+2011,maine,Accessories,255,105,28,9,28
+2011,maryland,Bookcases,363,36,121,3,121
+2011,maryland,Chairs,240,65,30,8,30
+2011,maryland,Furnishings,225,75,38,6,38
+2011,maryland,Art,5,1,3,2,3
+2011,maryland,Binders,21,9,11,2,11
+2011,maryland,Labels,27,12,3,10,3
+2011,maryland,Paper,263,130,44,6,44
+2011,maryland,Storage,498,129,55,9,55
+2011,maryland,Accessories,60,26,30,2,30
+2011,massachusetts,Chairs,3287,717,173,19,173
+2011,massachusetts,Furnishings,119,42,12,10,12
+2011,massachusetts,Tables,894,-169,179,5,179
+2011,massachusetts,Appliances,1983,573,165,12,165
+2011,massachusetts,Art,9,3,3,3,3
+2011,massachusetts,Binders,470,230,39,12,39
+2011,massachusetts,Paper,352,168,29,12,29
+2011,massachusetts,Storage,2223,361,93,24,93
+2011,massachusetts,Accessories,291,57,49,6,49
+2011,massachusetts,Phones,272,79,136,2,136
+2011,new hampshire,Furnishings,140,60,20,7,20
+2011,new hampshire,Appliances,33,9,8,4,8
+2011,new hampshire,Art,39,12,4,9,4
+2011,new hampshire,Binders,23,11,6,4,6
+2011,new hampshire,Storage,270,16,54,5,54
+2011,new jersey,Chairs,1101,241,220,5,220
+2011,new jersey,Furnishings,467,166,27,17,27
+2011,new jersey,Appliances,158,44,26,6,26
+2011,new jersey,Art,299,87,33,9,33
+2011,new jersey,Binders,266,131,20,13,20
+2011,new jersey,Labels,14,7,3,5,3
+2011,new jersey,Paper,177,83,35,5,35
+2011,new jersey,Accessories,115,50,16,7,16
+2011,new jersey,Phones,1595,435,133,12,133
+2011,new york,Bookcases,7896,-56,272,29,272
+2011,new york,Chairs,8241,1142,153,54,153
+2011,new york,Furnishings,794,223,17,47,17
+2011,new york,Tables,4775,-1599,171,28,171
+2011,new york,Appliances,1938,596,67,29,67
+2011,new york,Art,382,121,7,54,7
+2011,new york,Binders,4067,1384,29,142,29
+2011,new york,Envelopes,477,229,15,32,15
+2011,new york,Fasteners,10,4,2,6,2
+2011,new york,Labels,292,138,7,39,7
+2011,new york,Paper,1691,807,14,120,14
+2011,new york,Storage,5553,634,132,42,132
+2011,new york,Supplies,150,39,8,18,8
+2011,new york,Accessories,1972,636,79,25,79
+2011,new york,Copiers,560,175,560,1,560
+2011,new york,Machines,13862,5638,1260,11,1260
+2011,new york,Phones,12129,3637,176,69,176
+2011,ohio,Bookcases,302,-200,60,5,60
+2011,ohio,Chairs,2267,-119,151,15,151
+2011,ohio,Furnishings,850,36,19,44,19
+2011,ohio,Tables,2470,-1148,176,14,176
+2011,ohio,Appliances,1100,94,38,29,38
+2011,ohio,Art,172,20,5,32,5
+2011,ohio,Binders,328,-250,5,71,5
+2011,ohio,Envelopes,150,51,12,13,12
+2011,ohio,Fasteners,51,16,3,20,3
+2011,ohio,Labels,22,7,4,6,4
+2011,ohio,Paper,315,110,7,44,7
+2011,ohio,Storage,658,-56,37,18,37
+2011,ohio,Supplies,9,1,5,2,5
+2011,ohio,Accessories,529,70,48,11,48
+2011,ohio,Copiers,660,110,330,2,330
+2011,ohio,Machines,102,-71,51,2,51
+2011,ohio,Phones,4149,-804,143,29,143
+2011,pennsylvania,Bookcases,934,-521,62,15,62
+2011,pennsylvania,Chairs,3528,-254,131,27,131
+2011,pennsylvania,Furnishings,905,78,27,33,27
+2011,pennsylvania,Tables,2008,-558,134,15,134
+2011,pennsylvania,Appliances,346,35,23,15,23
+2011,pennsylvania,Art,234,30,7,33,7
+2011,pennsylvania,Binders,722,-569,14,53,14
+2011,pennsylvania,Envelopes,721,244,28,26,28
+2011,pennsylvania,Fasteners,37,12,2,15,2
+2011,pennsylvania,Labels,111,37,4,25,4
+2011,pennsylvania,Paper,617,211,15,42,15
+2011,pennsylvania,Storage,3976,-574,114,35,114
+2011,pennsylvania,Supplies,297,-67,74,4,74
+2011,pennsylvania,Accessories,993,149,28,36,28
+2011,pennsylvania,Copiers,2880,366,320,9,320
+2011,pennsylvania,Machines,607,-732,87,7,87
+2011,pennsylvania,Phones,1331,-250,34,39,34
+2011,rhode island,Bookcases,342,79,171,2,171
+2011,rhode island,Chairs,2211,633,201,11,201
+2011,rhode island,Furnishings,85,32,12,7,12
+2011,rhode island,Tables,386,-61,386,1,386
+2011,rhode island,Art,49,19,10,5,10
+2011,rhode island,Binders,34,16,17,2,17
+2011,rhode island,Paper,221,104,25,9,25
+2011,rhode island,Accessories,1688,743,422,4,422
+2011,alabama,Chairs,2366,235,118,20,118
+2011,alabama,Furnishings,9,3,5,2,5
+2011,alabama,Tables,1216,316,152,8,152
+2011,alabama,Art,15,4,5,3,5
+2011,alabama,Binders,153,75,26,6,26
+2011,alabama,Paper,24,12,6,4,6
+2011,alabama,Storage,276,11,92,3,92
+2011,alabama,Supplies,7,2,7,1,7
+2011,alabama,Accessories,498,184,100,5,100
+2011,alabama,Phones,1576,409,197,8,197
+2011,arkansas,Bookcases,639,172,71,9,71
+2011,arkansas,Chairs,1673,370,186,9,186
+2011,arkansas,Furnishings,70,25,5,14,5
+2011,arkansas,Art,30,8,3,10,3
+2011,arkansas,Binders,1812,851,302,6,302
+2011,arkansas,Envelopes,23,11,8,3,8
+2011,arkansas,Fasteners,13,5,2,7,2
+2011,arkansas,Labels,7,3,7,1,7
+2011,arkansas,Paper,114,53,23,5,23
+2011,arkansas,Accessories,340,122,85,4,85
+2011,arkansas,Phones,1582,411,113,14,113
+2011,florida,Bookcases,155,-8,39,4,39
+2011,florida,Chairs,2390,220,114,21,114
+2011,florida,Furnishings,1320,124,33,40,33
+2011,florida,Tables,174,-111,58,3,58
+2011,florida,Appliances,376,34,24,16,24
+2011,florida,Art,80,10,5,16,5
+2011,florida,Binders,1049,-776,19,56,19
+2011,florida,Envelopes,102,35,9,12,9
+2011,florida,Fasteners,49,17,3,15,3
+2011,florida,Labels,29,10,3,10,3
+2011,florida,Paper,536,188,13,41,13
+2011,florida,Storage,677,8,62,11,62
+2011,florida,Supplies,13,-3,3,5,3
+2011,florida,Accessories,2097,440,62,34,62
+2011,florida,Copiers,480,90,240,2,240
+2011,florida,Machines,23460,-1828,2346,10,2346
+2011,florida,Phones,1259,136,105,12,105
+2011,georgia,Chairs,68,18,34,2,34
+2011,georgia,Furnishings,168,62,21,8,21
+2011,georgia,Appliances,830,331,104,8,104
+2011,georgia,Art,61,19,8,8,8
+2011,georgia,Binders,341,167,34,10,34
+2011,georgia,Envelopes,28,13,6,5,6
+2011,georgia,Labels,163,77,13,13,13
+2011,georgia,Paper,143,68,6,23,6
+2011,georgia,Storage,702,117,140,5,140
+2011,georgia,Accessories,545,208,21,26,21
+2011,georgia,Phones,1491,411,115,13,115
+2011,kentucky,Chairs,2574,746,286,9,286
+2011,kentucky,Appliances,147,38,49,3,49
+2011,kentucky,Art,198,52,13,15,13
+2011,kentucky,Binders,738,337,62,12,62
+2011,kentucky,Fasteners,31,0,8,4,8
+2011,kentucky,Labels,30,14,4,8,4
+2011,kentucky,Paper,730,350,33,22,33
+2011,kentucky,Storage,2002,259,105,19,105
+2011,kentucky,Supplies,26,7,9,3,9
+2011,kentucky,Accessories,33,14,17,2,17
+2011,kentucky,Phones,1773,492,177,10,177
+2011,louisiana,Chairs,52,13,26,2,26
+2011,louisiana,Furnishings,130,10,33,4,33
+2011,louisiana,Binders,24,11,4,6,4
+2011,louisiana,Envelopes,62,31,12,5,12
+2011,louisiana,Paper,32,16,6,5,6
+2011,louisiana,Storage,805,44,73,11,73
+2011,louisiana,Accessories,776,309,78,10,78
+2011,louisiana,Phones,654,173,73,9,73
+2011,mississippi,Tables,86,22,86,1,86
+2011,mississippi,Appliances,33,8,11,3,11
+2011,mississippi,Binders,42,20,8,5,8
+2011,mississippi,Labels,15,7,8,2,8
+2011,mississippi,Paper,48,23,5,9,5
+2011,mississippi,Storage,306,0,61,5,61
+2011,mississippi,Accessories,752,233,75,10,75
+2011,mississippi,Phones,774,231,129,6,129
+2011,north carolina,Furnishings,454,-39,65,7,65
+2011,north carolina,Tables,945,-299,158,6,158
+2011,north carolina,Appliances,288,34,26,11,26
+2011,north carolina,Art,103,17,4,28,4
+2011,north carolina,Binders,92,-68,4,23,4
+2011,north carolina,Fasteners,16,4,2,8,2
+2011,north carolina,Labels,65,21,4,15,4
+2011,north carolina,Paper,622,217,21,29,21
+2011,north carolina,Storage,171,7,16,11,16
+2011,north carolina,Supplies,3,0,3,1,3
+2011,north carolina,Accessories,87,20,15,6,15
+2011,north carolina,Machines,3925,-1517,785,5,785
+2011,north carolina,Phones,1849,187,103,18,103
+2011,south carolina,Chairs,546,87,91,6,91
+2011,south carolina,Furnishings,398,44,80,5,80
+2011,south carolina,Art,13,4,3,4,3
+2011,south carolina,Binders,46,22,15,3,15
+2011,south carolina,Fasteners,12,4,4,3,4
+2011,south carolina,Paper,209,101,21,10,21
+2011,south carolina,Storage,355,18,71,5,71
+2011,south carolina,Accessories,63,23,21,3,21
+2011,south carolina,Phones,630,164,126,5,126
+2011,tennessee,Chairs,1613,145,147,11,147
+2011,tennessee,Furnishings,33,7,11,3,11
+2011,tennessee,Tables,329,-148,110,3,110
+2011,tennessee,Appliances,446,44,30,15,30
+2011,tennessee,Art,9,1,2,6,2
+2011,tennessee,Binders,85,-66,28,3,28
+2011,tennessee,Labels,59,22,12,5,12
+2011,tennessee,Paper,240,80,11,22,11
+2011,tennessee,Storage,237,-35,26,9,26
+2011,virginia,Chairs,1790,471,81,22,81
+2011,virginia,Furnishings,579,188,23,25,23
+2011,virginia,Tables,7191,1327,248,29,248
+2011,virginia,Art,58,18,3,19,3
+2011,virginia,Binders,3926,1846,127,31,127
+2011,virginia,Envelopes,36,17,7,5,7
+2011,virginia,Fasteners,45,22,5,9,5
+2011,virginia,Labels,32,15,3,10,3
+2011,virginia,Paper,486,232,12,41,12
+2011,virginia,Storage,1184,33,49,24,49
+2011,virginia,Supplies,4198,93,420,10,420
+2011,virginia,Accessories,405,132,41,10,41
+2011,virginia,Machines,210,90,70,3,70
+2011,virginia,Phones,5662,1470,149,38,149
+2011,arizona,Bookcases,181,-321,36,5,36
+2011,arizona,Chairs,816,-104,82,10,82
+2011,arizona,Furnishings,312,20,17,18,17
+2011,arizona,Tables,74,-46,74,1,74
+2011,arizona,Art,1122,112,125,9,125
+2011,arizona,Binders,1562,-1200,43,36,43
+2011,arizona,Envelopes,145,50,10,14,10
+2011,arizona,Fasteners,61,-10,4,15,4
+2011,arizona,Paper,482,167,22,22,22
+2011,arizona,Storage,236,11,15,16,15
+2011,arizona,Supplies,63,0,7,9,7
+2011,arizona,Accessories,1780,143,61,29,61
+2011,arizona,Phones,1459,274,86,17,86
+2011,california,Bookcases,4996,109,114,44,114
+2011,california,Chairs,13544,809,134,101,134
+2011,california,Furnishings,2926,788,21,137,21
+2011,california,Tables,11497,177,164,70,164
+2011,california,Appliances,2167,631,42,52,42
+2011,california,Art,1126,339,8,144,8
+2011,california,Binders,3129,1093,19,166,19
+2011,california,Envelopes,333,157,19,18,19
+2011,california,Fasteners,137,58,4,37,4
+2011,california,Labels,732,346,9,84,9
+2011,california,Paper,3008,1428,16,192,16
+2011,california,Storage,10597,1813,77,138,77
+2011,california,Supplies,8908,399,198,45,198
+2011,california,Accessories,4386,1089,46,96,46
+2011,california,Copiers,1200,435,400,3,400
+2011,california,Machines,3470,1164,174,20,174
+2011,california,Phones,19148,1801,101,190,101
+2011,colorado,Chairs,834,96,104,8,104
+2011,colorado,Furnishings,523,56,37,14,37
+2011,colorado,Tables,365,-261,91,4,91
+2011,colorado,Appliances,35,4,12,3,12
+2011,colorado,Art,144,17,14,10,14
+2011,colorado,Binders,115,-88,8,14,8
+2011,colorado,Fasteners,28,9,9,3,9
+2011,colorado,Paper,483,161,19,26,19
+2011,colorado,Storage,636,-16,212,3,212
+2011,colorado,Supplies,7,1,7,1,7
+2011,colorado,Accessories,645,146,50,13,50
+2011,colorado,Phones,2688,315,179,15,179
+2011,idaho,Chairs,338,4,113,3,113
+2011,idaho,Binders,10,3,10,1,10
+2011,idaho,Paper,117,54,15,8,15
+2011,montana,Binders,14,5,4,4,4
+2011,montana,Storage,87,24,12,7,12
+2011,montana,Accessories,217,91,36,6,36
+2011,montana,Phones,106,9,53,2,53
+2011,nevada,Chairs,674,-110,225,3,225
+2011,nevada,Furnishings,186,56,14,13,14
+2011,nevada,Art,18,5,3,7,3
+2011,nevada,Fasteners,5,0,5,1,5
+2011,nevada,Paper,119,56,13,9,13
+2011,nevada,Accessories,171,70,57,3,57
+2011,nevada,Phones,1388,173,154,9,154
+2011,new mexico,Art,256,113,37,7,37
+2011,new mexico,Storage,33,8,33,1,33
+2011,new mexico,Accessories,93,19,10,9,10
+2011,new mexico,Phones,326,17,54,6,54
+2011,oregon,Chairs,1487,149,297,5,297
+2011,oregon,Tables,275,-171,275,1,275
+2011,oregon,Appliances,65,6,16,4,16
+2011,oregon,Art,296,41,11,28,11
+2011,oregon,Binders,6,-5,2,4,2
+2011,oregon,Envelopes,22,8,3,7,3
+2011,oregon,Labels,39,13,3,12,3
+2011,oregon,Paper,296,96,11,28,11
+2011,oregon,Storage,1205,-254,75,16,75
+2011,oregon,Supplies,14,-3,3,5,3
+2011,oregon,Accessories,160,-1,8,20,8
+2011,oregon,Machines,30,-22,6,5,6
+2011,oregon,Phones,911,6,61,15,61
+2011,utah,Furnishings,73,22,12,6,12
+2011,utah,Appliances,1090,305,363,3,363
+2011,utah,Art,16,4,3,5,3
+2011,utah,Binders,168,56,17,10,17
+2011,utah,Paper,685,332,30,23,30
+2011,utah,Storage,317,27,32,10,32
+2011,utah,Accessories,195,41,10,19,10
+2011,utah,Phones,400,35,80,5,80
+2011,washington,Bookcases,1368,260,171,8,171
+2011,washington,Chairs,3713,387,133,28,133
+2011,washington,Furnishings,351,111,10,35,10
+2011,washington,Tables,5547,1030,205,27,205
+2011,washington,Appliances,399,121,31,13,31
+2011,washington,Art,401,122,17,23,17
+2011,washington,Binders,7959,2670,135,59,135
+2011,washington,Envelopes,158,77,53,3,53
+2011,washington,Fasteners,47,22,4,12,4
+2011,washington,Labels,105,51,11,10,11
+2011,washington,Paper,195,92,18,11,18
+2011,washington,Storage,3201,434,64,50,64
+2011,washington,Supplies,246,7,62,4,62
+2011,washington,Accessories,1279,339,39,33,39
+2011,washington,Copiers,1800,702,600,3,600
+2011,washington,Phones,3102,181,97,32,97
+2012,illinois,Bookcases,2016,-286,134,15,134
+2012,illinois,Chairs,2655,-429,66,40,66
+2012,illinois,Furnishings,675,-667,13,52,13
+2012,illinois,Tables,796,-526,114,7,114
+2012,illinois,Appliances,475,-1231,16,29,16
+2012,illinois,Art,253,34,12,22,12
+2012,illinois,Binders,73,-114,2,37,2
+2012,illinois,Envelopes,20,7,7,3,7
+2012,illinois,Fasteners,35,10,2,18,2
+2012,illinois,Labels,26,8,3,8,3
+2012,illinois,Paper,219,70,14,16,14
+2012,illinois,Storage,1411,-10,39,36,39
+2012,illinois,Supplies,81,4,6,14,6
+2012,illinois,Accessories,1894,348,54,35,54
+2012,illinois,Copiers,4240,1361,471,9,471
+2012,illinois,Machines,601,137,301,2,301
+2012,illinois,Phones,3108,273,86,36,86
+2012,indiana,Chairs,1606,411,201,8,201
+2012,indiana,Furnishings,6,3,3,2,3
+2012,indiana,Appliances,80,22,7,12,7
+2012,indiana,Art,171,51,8,22,8
+2012,indiana,Binders,73,34,5,15,5
+2012,indiana,Envelopes,209,100,16,13,16
+2012,indiana,Labels,88,41,10,9,10
+2012,indiana,Paper,318,149,17,19,17
+2012,indiana,Storage,1106,273,74,15,74
+2012,indiana,Accessories,1425,306,119,12,119
+2012,indiana,Copiers,1000,450,500,2,500
+2012,indiana,Machines,84,23,42,2,42
+2012,indiana,Phones,475,127,40,12,40
+2012,iowa,Chairs,1408,394,141,10,141
+2012,iowa,Binders,41,20,5,9,5
+2012,iowa,Phones,264,77,66,4,66
+2012,kansas,Art,27,10,5,5,5
+2012,kansas,Binders,128,60,64,2,64
+2012,kansas,Fasteners,6,2,6,1,6
+2012,kansas,Paper,10,4,5,2,5
+2012,michigan,Bookcases,355,52,71,5,71
+2012,michigan,Chairs,2983,501,99,30,99
+2012,michigan,Furnishings,305,41,22,14,22
+2012,michigan,Tables,1424,337,203,7,203
+2012,michigan,Appliances,2660,679,116,23,116
+2012,michigan,Art,297,84,12,25,12
+2012,michigan,Binders,4673,2303,102,46,102
+2012,michigan,Envelopes,239,109,27,9,27
+2012,michigan,Fasteners,6,3,3,2,3
+2012,michigan,Labels,39,18,4,10,4
+2012,michigan,Paper,114,55,6,18,6
+2012,michigan,Storage,964,248,80,12,80
+2012,michigan,Supplies,70,21,18,4,18
+2012,michigan,Accessories,952,193,38,25,38
+2012,michigan,Copiers,600,210,300,2,300
+2012,michigan,Phones,1164,312,58,20,58
+2012,minnesota,Chairs,2724,809,195,14,195
+2012,minnesota,Furnishings,213,44,19,11,19
+2012,minnesota,Appliances,716,179,358,2,358
+2012,minnesota,Art,30,13,10,3,10
+2012,minnesota,Binders,184,88,18,10,18
+2012,minnesota,Labels,45,22,9,5,9
+2012,minnesota,Paper,90,43,9,10,9
+2012,minnesota,Storage,796,143,265,3,265
+2012,minnesota,Copiers,550,275,550,1,550
+2012,minnesota,Phones,378,106,126,3,126
+2012,missouri,Furnishings,223,38,45,5,45
+2012,missouri,Tables,1024,215,146,7,146
+2012,missouri,Binders,46,21,7,7,7
+2012,missouri,Envelopes,26,12,9,3,9
+2012,missouri,Paper,114,54,10,12,10
+2012,missouri,Supplies,53,16,18,3,18
+2012,missouri,Copiers,5500,2537,688,8,688
+2012,nebraska,Furnishings,28,11,14,2,14
+2012,nebraska,Binders,24,11,5,5,5
+2012,nebraska,Fasteners,5,0,1,4,1
+2012,nebraska,Paper,116,57,39,3,39
+2012,nebraska,Accessories,150,51,50,3,50
+2012,nebraska,Phones,270,73,135,2,135
+2012,oklahoma,Chairs,1324,384,265,5,265
+2012,oklahoma,Paper,121,57,20,6,20
+2012,oklahoma,Storage,541,5,135,4,135
+2012,oklahoma,Phones,822,214,137,6,137
+2012,texas,Bookcases,4726,-796,158,30,158
+2012,texas,Chairs,4348,-583,140,31,140
+2012,texas,Furnishings,521,-385,9,59,9
+2012,texas,Tables,2744,-440,114,24,114
+2012,texas,Appliances,772,-1920,22,35,22
+2012,texas,Art,264,31,9,29,9
+2012,texas,Binders,648,-1053,4,157,4
+2012,texas,Envelopes,377,119,17,22,17
+2012,texas,Fasteners,37,10,2,15,2
+2012,texas,Labels,107,37,6,17,6
+2012,texas,Paper,2016,708,17,117,17
+2012,texas,Storage,3514,-223,58,61,58
+2012,texas,Supplies,120,-19,8,16,8
+2012,texas,Accessories,2236,376,35,64,35
+2012,texas,Copiers,920,327,230,4,230
+2012,texas,Machines,1167,10,167,7,167
+2012,texas,Phones,9939,1285,126,79,126
+2012,wisconsin,Bookcases,1200,146,150,8,150
+2012,wisconsin,Chairs,861,189,123,7,123
+2012,wisconsin,Furnishings,559,158,47,12,47
+2012,wisconsin,Tables,868,148,145,6,145
+2012,wisconsin,Appliances,272,76,54,5,54
+2012,wisconsin,Art,90,26,9,10,9
+2012,wisconsin,Paper,427,201,20,21,20
+2012,wisconsin,Accessories,1140,257,127,9,127
+2012,wisconsin,Phones,2945,842,184,16,184
+2012,connecticut,Furnishings,22,9,4,6,4
+2012,connecticut,Appliances,508,205,102,5,102
+2012,connecticut,Art,7,2,7,1,7
+2012,connecticut,Binders,38,18,5,7,5
+2012,connecticut,Paper,46,21,23,2,23
+2012,connecticut,Storage,564,146,33,17,33
+2012,connecticut,Phones,100,25,100,1,100
+2012,delaware,Bookcases,584,139,83,7,83
+2012,delaware,Chairs,1560,342,111,14,111
+2012,delaware,Furnishings,76,27,25,3,25
+2012,delaware,Tables,200,-37,50,4,50
+2012,delaware,Art,29,10,3,9,3
+2012,delaware,Binders,341,161,26,13,26
+2012,delaware,Envelopes,17,8,9,2,9
+2012,delaware,Fasteners,26,1,4,7,4
+2012,delaware,Paper,153,72,6,24,6
+2012,delaware,Storage,658,170,44,15,44
+2012,delaware,Accessories,225,60,38,6,38
+2012,delaware,Phones,2323,656,145,16,145
+2012,district of columbia,Chairs,1268,317,423,3,423
+2012,district of columbia,Art,23,9,8,3,8
+2012,district of columbia,Machines,1380,649,173,8,173
+2012,maine,Binders,38,17,10,4,10
+2012,maine,Accessories,68,15,34,2,34
+2012,maryland,Chairs,694,185,174,4,174
+2012,maryland,Furnishings,182,20,91,2,91
+2012,maryland,Appliances,434,123,39,11,39
+2012,maryland,Art,115,44,7,16,7
+2012,maryland,Binders,2896,1440,116,25,116
+2012,maryland,Envelopes,137,63,15,9,15
+2012,maryland,Fasteners,27,10,3,8,3
+2012,maryland,Labels,12,6,4,3,4
+2012,maryland,Paper,119,57,7,18,7
+2012,maryland,Storage,867,62,39,22,39
+2012,maryland,Machines,465,209,155,3,155
+2012,maryland,Phones,1895,494,211,9,211
+2012,massachusetts,Bookcases,835,176,167,5,167
+2012,massachusetts,Chairs,604,156,151,4,151
+2012,massachusetts,Furnishings,314,74,17,18,17
+2012,massachusetts,Tables,446,0,112,4,112
+2012,massachusetts,Appliances,176,49,44,4,44
+2012,massachusetts,Art,75,22,6,13,6
+2012,massachusetts,Binders,911,428,21,44,21
+2012,massachusetts,Fasteners,22,10,4,5,4
+2012,massachusetts,Labels,3,2,3,1,3
+2012,massachusetts,Paper,675,309,16,42,16
+2012,massachusetts,Storage,1194,341,109,11,109
+2012,massachusetts,Accessories,260,88,130,2,130
+2012,massachusetts,Phones,1111,300,79,14,79
+2012,new hampshire,Tables,1053,-105,263,4,263
+2012,new hampshire,Binders,741,348,148,5,148
+2012,new hampshire,Labels,17,8,4,4,4
+2012,new hampshire,Paper,285,133,14,21,14
+2012,new hampshire,Accessories,2250,517,250,9,250
+2012,new jersey,Furnishings,17,7,3,6,3
+2012,new jersey,Appliances,2736,765,228,12,228
+2012,new jersey,Art,316,82,23,14,23
+2012,new jersey,Binders,224,104,32,7,32
+2012,new jersey,Envelopes,51,23,13,4,13
+2012,new jersey,Labels,31,15,10,3,10
+2012,new jersey,Paper,409,199,26,16,26
+2012,new jersey,Storage,62,17,62,1,62
+2012,new jersey,Accessories,154,52,31,5,31
+2012,new jersey,Phones,105,52,53,2,53
+2012,new york,Bookcases,9122,402,247,37,247
+2012,new york,Chairs,11441,1713,136,84,136
+2012,new york,Furnishings,1649,539,31,53,31
+2012,new york,Tables,3839,-1145,128,30,128
+2012,new york,Appliances,2122,625,59,36,59
+2012,new york,Art,499,155,9,57,9
+2012,new york,Binders,8092,2938,59,138,59
+2012,new york,Envelopes,349,164,11,32,11
+2012,new york,Fasteners,61,24,4,17,4
+2012,new york,Labels,216,102,6,39,6
+2012,new york,Paper,1796,851,13,140,13
+2012,new york,Storage,5828,1252,70,83,70
+2012,new york,Supplies,420,23,47,9,47
+2012,new york,Accessories,10816,3104,126,86,126
+2012,new york,Copiers,4960,1655,382,13,382
+2012,new york,Machines,8631,3909,508,17,508
+2012,new york,Phones,10479,2965,110,95,110
+2012,ohio,Bookcases,971,-637,81,12,81
+2012,ohio,Chairs,1565,-219,98,16,98
+2012,ohio,Furnishings,546,101,19,29,19
+2012,ohio,Tables,1601,-480,160,10,160
+2012,ohio,Appliances,45,5,15,3,15
+2012,ohio,Art,121,14,5,26,5
+2012,ohio,Binders,343,-250,7,48,7
+2012,ohio,Envelopes,36,12,7,5,7
+2012,ohio,Fasteners,28,3,2,17,2
+2012,ohio,Labels,55,19,9,6,9
+2012,ohio,Paper,187,65,7,25,7
+2012,ohio,Storage,1257,-121,74,17,74
+2012,ohio,Supplies,43,-2,5,9,5
+2012,ohio,Accessories,2636,671,101,26,101
+2012,ohio,Machines,3468,-3974,231,15,231
+2012,ohio,Phones,3208,-707,84,38,84
+2012,pennsylvania,Bookcases,3737,-2082,249,15,249
+2012,pennsylvania,Chairs,2052,-210,76,27,76
+2012,pennsylvania,Furnishings,2463,-39,46,54,46
+2012,pennsylvania,Tables,1253,-480,157,8,157
+2012,pennsylvania,Appliances,670,79,25,27,25
+2012,pennsylvania,Art,523,62,11,48,11
+2012,pennsylvania,Binders,583,-462,7,79,7
+2012,pennsylvania,Envelopes,287,94,15,19,15
+2012,pennsylvania,Fasteners,26,1,2,13,2
+2012,pennsylvania,Labels,182,62,10,19,10
+2012,pennsylvania,Paper,290,98,6,49,6
+2012,pennsylvania,Storage,2827,-148,57,50,57
+2012,pennsylvania,Supplies,725,-144,91,8,91
+2012,pennsylvania,Accessories,1303,96,41,32,41
+2012,pennsylvania,Machines,482,-338,121,4,121
+2012,pennsylvania,Phones,3105,-490,69,45,69
+2012,rhode island,Chairs,111,16,111,1,111
+2012,rhode island,Tables,494,-28,71,7,71
+2012,rhode island,Paper,8,4,4,2,4
+2012,rhode island,Storage,51,14,17,3,17
+2012,rhode island,Accessories,200,84,100,2,100
+2012,rhode island,Phones,235,5,47,5,47
+2012,vermont,Bookcases,4405,1013,881,5,881
+2012,vermont,Chairs,715,179,238,3,238
+2012,alabama,Chairs,1057,306,151,7,151
+2012,alabama,Furnishings,21,8,3,8,3
+2012,alabama,Tables,1161,240,290,4,290
+2012,alabama,Art,44,12,4,10,4
+2012,alabama,Binders,19,9,6,3,6
+2012,alabama,Envelopes,106,53,10,11,10
+2012,alabama,Labels,492,241,98,5,98
+2012,alabama,Paper,32,16,6,5,6
+2012,alabama,Copiers,900,315,300,3,300
+2012,alabama,Phones,60,0,20,3,20
+2012,arkansas,Tables,302,45,151,2,151
+2012,arkansas,Binders,6,3,3,2,3
+2012,arkansas,Envelopes,105,52,53,2,53
+2012,arkansas,Accessories,30,3,30,1,30
+2012,florida,Bookcases,522,-30,65,8,65
+2012,florida,Chairs,2961,-107,165,18,165
+2012,florida,Furnishings,516,97,17,30,17
+2012,florida,Tables,1525,-617,169,9,169
+2012,florida,Appliances,394,25,66,6,66
+2012,florida,Art,327,36,9,35,9
+2012,florida,Binders,1804,-1386,30,61,30
+2012,florida,Envelopes,36,12,7,5,7
+2012,florida,Labels,25,9,4,7,4
+2012,florida,Paper,348,111,11,32,11
+2012,florida,Storage,4144,-298,130,32,130
+2012,florida,Supplies,41,5,14,3,14
+2012,florida,Accessories,1839,288,43,43,43
+2012,florida,Machines,33,-2,11,3,11
+2012,florida,Phones,662,99,30,22,30
+2012,georgia,Chairs,393,43,131,3,131
+2012,georgia,Furnishings,1029,367,57,18,57
+2012,georgia,Appliances,569,159,95,6,95
+2012,georgia,Art,154,46,15,10,15
+2012,georgia,Binders,6867,3413,312,22,312
+2012,georgia,Envelopes,108,51,8,14,8
+2012,georgia,Labels,18,9,4,5,4
+2012,georgia,Paper,752,365,19,39,19
+2012,georgia,Storage,47,12,16,3,16
+2012,georgia,Accessories,1115,222,41,27,41
+2012,georgia,Phones,288,78,96,3,96
+2012,kentucky,Chairs,835,206,84,10,84
+2012,kentucky,Furnishings,288,64,16,18,16
+2012,kentucky,Appliances,316,87,53,6,53
+2012,kentucky,Art,96,29,6,17,6
+2012,kentucky,Binders,892,416,20,45,20
+2012,kentucky,Envelopes,100,45,20,5,20
+2012,kentucky,Labels,295,145,98,3,98
+2012,kentucky,Paper,204,95,20,10,20
+2012,kentucky,Storage,37,10,12,3,12
+2012,kentucky,Accessories,360,83,20,18,20
+2012,kentucky,Machines,3080,1417,440,7,440
+2012,kentucky,Phones,1172,326,65,18,65
+2012,louisiana,Chairs,518,155,86,6,86
+2012,louisiana,Furnishings,29,11,15,2,15
+2012,louisiana,Tables,86,22,86,1,86
+2012,louisiana,Art,56,16,28,2,28
+2012,louisiana,Binders,36,17,5,7,5
+2012,louisiana,Paper,32,16,6,5,6
+2012,louisiana,Accessories,160,52,13,12,13
+2012,mississippi,Furnishings,6,2,3,2,3
+2012,mississippi,Art,56,16,28,2,28
+2012,mississippi,Accessories,240,105,40,6,40
+2012,north carolina,Chairs,207,26,69,3,69
+2012,north carolina,Furnishings,833,125,28,30,28
+2012,north carolina,Tables,4298,-1862,331,13,331
+2012,north carolina,Appliances,1060,166,151,7,151
+2012,north carolina,Art,238,24,11,21,11
+2012,north carolina,Binders,192,-145,5,42,5
+2012,north carolina,Envelopes,213,67,24,9,24
+2012,north carolina,Fasteners,32,12,3,11,3
+2012,north carolina,Labels,26,9,3,8,3
+2012,north carolina,Paper,640,216,24,27,24
+2012,north carolina,Accessories,168,50,24,7,24
+2012,north carolina,Phones,651,64,54,12,54
+2012,south carolina,Chairs,1690,423,423,4,423
+2012,south carolina,Binders,15,7,8,2,8
+2012,south carolina,Envelopes,309,145,62,5,62
+2012,south carolina,Fasteners,32,14,8,4,8
+2012,south carolina,Paper,24,12,6,4,6
+2012,south carolina,Storage,1335,54,56,24,56
+2012,south carolina,Phones,744,209,93,8,93
+2012,tennessee,Bookcases,131,8,66,2,66
+2012,tennessee,Chairs,2124,-32,89,24,89
+2012,tennessee,Furnishings,863,211,41,21,41
+2012,tennessee,Art,45,13,5,9,5
+2012,tennessee,Binders,3150,-2112,113,28,113
+2012,tennessee,Envelopes,56,19,7,8,7
+2012,tennessee,Fasteners,62,20,6,11,6
+2012,tennessee,Labels,40,14,3,16,3
+2012,tennessee,Paper,42,15,6,7,6
+2012,tennessee,Storage,1220,-136,64,19,64
+2012,tennessee,Supplies,89,10,11,8,11
+2012,tennessee,Accessories,77,-12,8,10,8
+2012,tennessee,Phones,467,58,117,4,117
+2012,virginia,Bookcases,585,130,53,11,53
+2012,virginia,Chairs,333,80,111,3,111
+2012,virginia,Furnishings,1792,287,51,35,51
+2012,virginia,Appliances,1511,526,69,22,69
+2012,virginia,Art,346,101,19,18,19
+2012,virginia,Binders,487,236,15,33,15
+2012,virginia,Envelopes,376,178,34,11,34
+2012,virginia,Labels,222,108,56,4,56
+2012,virginia,Paper,230,105,14,17,14
+2012,virginia,Storage,705,91,59,12,59
+2012,virginia,Accessories,152,36,38,4,38
+2012,virginia,Phones,3805,1108,123,31,123
+2012,arizona,Bookcases,128,-192,21,6,21
+2012,arizona,Chairs,1784,179,112,16,112
+2012,arizona,Furnishings,1568,186,49,32,49
+2012,arizona,Tables,393,-204,131,3,131
+2012,arizona,Appliances,508,57,42,12,42
+2012,arizona,Art,130,15,7,19,7
+2012,arizona,Binders,192,-137,6,34,6
+2012,arizona,Envelopes,15,5,4,4,4
+2012,arizona,Labels,27,9,3,9,3
+2012,arizona,Paper,886,298,16,57,16
+2012,arizona,Storage,1097,-230,50,22,50
+2012,arizona,Accessories,329,-37,33,10,33
+2012,arizona,Phones,2553,287,111,23,111
+2012,california,Bookcases,5959,206,142,42,142
+2012,california,Chairs,16994,582,167,102,167
+2012,california,Furnishings,5084,1388,27,185,27
+2012,california,Tables,4463,-254,144,31,144
+2012,california,Appliances,5686,1640,103,55,103
+2012,california,Art,1434,405,15,97,15
+2012,california,Binders,2342,790,12,193,12
+2012,california,Envelopes,1328,618,32,41,32
+2012,california,Fasteners,103,45,4,24,4
+2012,california,Labels,776,360,13,61,13
+2012,california,Paper,3317,1573,14,243,14
+2012,california,Storage,9593,1113,71,135,71
+2012,california,Supplies,280,59,9,30,9
+2012,california,Accessories,7019,2498,65,108,65
+2012,california,Copiers,3920,1155,302,13,302
+2012,california,Machines,7754,942,352,22,352
+2012,california,Phones,12394,1250,107,116,107
+2012,colorado,Bookcases,805,-1178,47,17,47
+2012,colorado,Chairs,582,-29,73,8,73
+2012,colorado,Furnishings,250,30,10,25,10
+2012,colorado,Tables,365,-248,73,5,73
+2012,colorado,Appliances,950,92,38,25,38
+2012,colorado,Art,42,5,3,14,3
+2012,colorado,Binders,54,-39,3,16,3
+2012,colorado,Envelopes,13,4,13,1,13
+2012,colorado,Fasteners,5,1,2,3,2
+2012,colorado,Paper,158,53,11,14,11
+2012,colorado,Storage,139,17,35,4,35
+2012,colorado,Supplies,17,2,4,4,4
+2012,colorado,Accessories,344,-36,25,14,25
+2012,colorado,Copiers,440,165,440,1,440
+2012,colorado,Machines,60,-46,30,2,30
+2012,colorado,Phones,415,67,30,14,30
+2012,idaho,Furnishings,355,92,89,4,89
+2012,idaho,Tables,696,160,348,2,348
+2012,idaho,Binders,3,1,3,1,3
+2012,idaho,Phones,445,32,74,6,74
+2012,montana,Furnishings,64,22,9,7,9
+2012,montana,Binders,488,152,244,2,244
+2012,montana,Labels,15,7,8,2,8
+2012,montana,Paper,29,14,10,3,10
+2012,montana,Phones,340,42,68,5,68
+2012,nevada,Bookcases,142,41,71,2,71
+2012,nevada,Furnishings,81,29,20,4,20
+2012,nevada,Appliances,31,8,8,4,8
+2012,nevada,Art,79,24,20,4,20
+2012,nevada,Binders,112,40,7,15,7
+2012,nevada,Labels,15,7,5,3,5
+2012,nevada,Paper,163,80,14,12,14
+2012,nevada,Storage,1326,239,265,5,265
+2012,new mexico,Chairs,1114,120,159,7,159
+2012,new mexico,Art,17,6,2,7,2
+2012,new mexico,Paper,49,23,12,4,12
+2012,new mexico,Supplies,13,0,13,1,13
+2012,oregon,Bookcases,66,-104,66,1,66
+2012,oregon,Chairs,291,-15,73,4,73
+2012,oregon,Furnishings,11,3,11,1,11
+2012,oregon,Tables,278,-189,70,4,70
+2012,oregon,Appliances,373,38,37,10,37
+2012,oregon,Art,20,3,3,6,3
+2012,oregon,Binders,24,-17,3,9,3
+2012,oregon,Fasteners,9,2,2,5,2
+2012,oregon,Labels,147,48,25,6,25
+2012,oregon,Paper,305,107,22,14,22
+2012,oregon,Storage,748,-159,58,13,58
+2012,oregon,Accessories,544,78,36,15,36
+2012,oregon,Phones,1471,93,87,17,87
+2012,utah,Bookcases,1407,141,201,7,201
+2012,utah,Furnishings,67,22,22,3,22
+2012,utah,Tables,1957,359,245,8,245
+2012,utah,Binders,104,33,13,8,13
+2012,utah,Fasteners,10,3,1,7,1
+2012,utah,Labels,16,8,3,5,3
+2012,utah,Paper,93,42,31,3,31
+2012,utah,Storage,323,61,162,2,162
+2012,utah,Phones,17,2,6,3,6
+2012,washington,Bookcases,847,96,121,7,121
+2012,washington,Chairs,2934,135,245,12,245
+2012,washington,Furnishings,433,128,25,17,25
+2012,washington,Tables,7885,1579,225,35,225
+2012,washington,Appliances,177,58,22,8,22
+2012,washington,Art,313,86,9,34,9
+2012,washington,Binders,569,203,17,34,17
+2012,washington,Fasteners,13,0,3,4,3
+2012,washington,Labels,23,10,5,5,5
+2012,washington,Paper,473,224,17,28,17
+2012,washington,Storage,2695,562,87,31,87
+2012,washington,Accessories,2440,647,58,42,58
+2012,washington,Copiers,3150,1480,450,7,450
+2012,washington,Machines,558,42,279,2,279
+2012,washington,Phones,905,78,101,9,101
+2013,illinois,Bookcases,340,-14,57,6,57
+2013,illinois,Chairs,4762,-260,129,37,129
+2013,illinois,Furnishings,1234,-1173,20,61,20
+2013,illinois,Tables,1551,-1059,119,13,119
+2013,illinois,Appliances,174,-442,10,17,10
+2013,illinois,Art,118,15,4,32,4
+2013,illinois,Binders,549,-897,9,64,9
+2013,illinois,Envelopes,16,6,4,4,4
+2013,illinois,Fasteners,18,5,2,8,2
+2013,illinois,Labels,56,19,4,14,4
+2013,illinois,Paper,1229,428,15,82,15
+2013,illinois,Storage,2845,59,109,26,109
+2013,illinois,Supplies,21,2,7,3,7
+2013,illinois,Accessories,499,24,16,32,16
+2013,illinois,Machines,2371,24,395,6,395
+2013,illinois,Phones,5251,455,164,32,164
+2013,indiana,Chairs,1455,364,243,6,243
+2013,indiana,Furnishings,258,60,17,15,17
+2013,indiana,Tables,3261,346,408,8,408
+2013,indiana,Appliances,93,26,19,5,19
+2013,indiana,Art,190,61,7,28,7
+2013,indiana,Binders,1026,474,51,20,51
+2013,indiana,Envelopes,288,129,36,8,36
+2013,indiana,Labels,52,25,10,5,10
+2013,indiana,Paper,402,191,29,14,29
+2013,indiana,Storage,32,5,16,2,16
+2013,indiana,Copiers,17500,8400,3500,5,3500
+2013,indiana,Phones,906,305,50,18,50
+2013,iowa,Art,76,23,38,2,38
+2013,iowa,Binders,143,68,10,14,10
+2013,iowa,Paper,57,27,6,9,6
+2013,iowa,Phones,683,190,114,6,114
+2013,kansas,Furnishings,71,24,12,6,12
+2013,kansas,Appliances,82,23,41,2,41
+2013,kansas,Art,108,27,36,3,36
+2013,kansas,Binders,152,70,30,5,30
+2013,kansas,Labels,19,9,6,3,6
+2013,kansas,Accessories,35,15,7,5,7
+2013,kansas,Phones,225,63,45,5,45
+2013,michigan,Chairs,4440,798,342,13,342
+2013,michigan,Furnishings,417,85,23,18,23
+2013,michigan,Tables,3669,659,229,16,229
+2013,michigan,Appliances,1096,245,61,18,61
+2013,michigan,Art,89,27,4,22,4
+2013,michigan,Binders,10137,5064,260,39,260
+2013,michigan,Fasteners,45,21,3,14,3
+2013,michigan,Labels,22,11,3,7,3
+2013,michigan,Paper,1224,589,28,44,28
+2013,michigan,Storage,2244,337,66,34,66
+2013,michigan,Accessories,810,287,58,14,58
+2013,michigan,Phones,3227,869,90,36,90
+2013,minnesota,Furnishings,19,6,6,3,6
+2013,minnesota,Tables,693,173,231,3,231
+2013,minnesota,Appliances,78,23,13,6,13
+2013,minnesota,Binders,17,8,9,2,9
+2013,minnesota,Paper,24,12,6,4,6
+2013,minnesota,Storage,535,161,178,3,178
+2013,minnesota,Accessories,46,20,23,2,23
+2013,minnesota,Phones,115,2,23,5,23
+2013,missouri,Furnishings,124,26,31,4,31
+2013,missouri,Tables,697,146,174,4,174
+2013,missouri,Appliances,1982,767,248,8,248
+2013,missouri,Binders,82,39,41,2,41
+2013,missouri,Envelopes,17,8,9,2,9
+2013,missouri,Paper,81,39,7,12,7
+2013,missouri,Storage,508,53,127,4,127
+2013,missouri,Accessories,280,67,56,5,56
+2013,missouri,Phones,450,220,150,3,150
+2013,nebraska,Chairs,564,113,188,3,188
+2013,nebraska,Furnishings,1336,388,95,14,95
+2013,nebraska,Appliances,438,152,49,9,49
+2013,nebraska,Art,19,5,3,7,3
+2013,nebraska,Fasteners,29,9,6,5,6
+2013,nebraska,Labels,14,7,3,5,3
+2013,nebraska,Paper,69,33,6,11,6
+2013,nebraska,Storage,414,101,46,9,46
+2013,nebraska,Supplies,17,5,9,2,9
+2013,nebraska,Phones,180,42,23,8,23
+2013,oklahoma,Bookcases,342,55,171,2,171
+2013,oklahoma,Chairs,369,81,123,3,123
+2013,oklahoma,Furnishings,88,37,13,7,13
+2013,oklahoma,Tables,1593,350,228,7,228
+2013,oklahoma,Appliances,869,252,290,3,290
+2013,oklahoma,Art,12,3,4,3,4
+2013,oklahoma,Binders,288,134,14,21,14
+2013,oklahoma,Envelopes,82,38,27,3,27
+2013,oklahoma,Labels,64,31,4,15,4
+2013,oklahoma,Paper,62,30,6,10,6
+2013,oklahoma,Storage,1451,66,207,7,207
+2013,oklahoma,Supplies,22,6,11,2,11
+2013,oklahoma,Accessories,1526,293,69,22,69
+2013,oklahoma,Phones,1242,300,73,17,73
+2013,texas,Bookcases,5489,-972,157,35,157
+2013,texas,Chairs,6313,-941,82,77,82
+2013,texas,Furnishings,1295,-1123,13,102,13
+2013,texas,Tables,2459,-324,107,23,107
+2013,texas,Appliances,348,-914,17,20,17
+2013,texas,Art,884,94,13,66,13
+2013,texas,Binders,1311,-2207,11,121,11
+2013,texas,Envelopes,569,191,24,24,24
+2013,texas,Fasteners,154,48,3,46,3
+2013,texas,Labels,221,74,7,33,7
+2013,texas,Paper,1522,524,10,153,10
+2013,texas,Storage,4662,-34,56,83,56
+2013,texas,Supplies,4235,-825,265,16,265
+2013,texas,Accessories,5283,397,51,103,51
+2013,texas,Machines,288,34,96,3,96
+2013,texas,Phones,6653,738,70,95,70
+2013,wisconsin,Bookcases,2214,464,148,15,148
+2013,wisconsin,Chairs,5447,1348,202,27,202
+2013,wisconsin,Furnishings,274,89,10,28,10
+2013,wisconsin,Appliances,855,247,71,12,71
+2013,wisconsin,Art,23,6,3,8,3
+2013,wisconsin,Binders,351,167,18,20,18
+2013,wisconsin,Fasteners,2,1,2,1,2
+2013,wisconsin,Labels,63,29,9,7,9
+2013,wisconsin,Paper,695,333,46,15,46
+2013,wisconsin,Storage,119,32,12,10,12
+2013,wisconsin,Accessories,2324,784,106,22,106
+2013,wisconsin,Phones,971,229,46,21,46
+2013,connecticut,Bookcases,1044,271,261,4,261
+2013,connecticut,Chairs,752,150,188,4,188
+2013,connecticut,Furnishings,173,17,43,4,43
+2013,connecticut,Tables,182,-16,182,1,182
+2013,connecticut,Art,25,7,4,6,4
+2013,connecticut,Binders,126,58,9,14,9
+2013,connecticut,Labels,15,7,8,2,8
+2013,connecticut,Paper,125,59,7,18,7
+2013,connecticut,Storage,657,29,60,11,60
+2013,connecticut,Supplies,73,19,8,9,8
+2013,connecticut,Accessories,260,103,33,8,33
+2013,connecticut,Phones,567,153,189,3,189
+2013,delaware,Furnishings,292,74,29,10,29
+2013,delaware,Art,11,3,6,2,6
+2013,delaware,Binders,648,316,32,20,32
+2013,delaware,Envelopes,225,103,14,16,14
+2013,delaware,Labels,24,11,4,6,4
+2013,delaware,Paper,188,90,21,9,21
+2013,delaware,Storage,587,157,73,8,73
+2013,delaware,Accessories,45,5,15,3,15
+2013,delaware,Phones,700,218,44,16,44
+2013,district of columbia,Furnishings,41,17,14,3,14
+2013,district of columbia,Art,34,13,4,8,4
+2013,district of columbia,Binders,10,4,5,2,5
+2013,district of columbia,Paper,32,15,6,5,6
+2013,maine,Furnishings,109,34,55,2,55
+2013,maine,Phones,438,131,146,3,146
+2013,maryland,Bookcases,519,69,87,6,87
+2013,maryland,Chairs,173,52,87,2,87
+2013,maryland,Furnishings,1232,356,62,20,62
+2013,maryland,Tables,790,-71,158,5,158
+2013,maryland,Appliances,940,308,188,5,188
+2013,maryland,Art,8,2,3,3,3
+2013,maryland,Binders,43,20,6,7,6
+2013,maryland,Envelopes,200,90,40,5,40
+2013,maryland,Labels,58,27,7,8,7
+2013,maryland,Paper,57,27,6,9,6
+2013,maryland,Accessories,98,10,16,6,16
+2013,maryland,Phones,592,161,59,10,59
+2013,massachusetts,Bookcases,256,34,64,4,64
+2013,massachusetts,Chairs,355,89,71,5,71
+2013,massachusetts,Furnishings,318,117,29,11,29
+2013,massachusetts,Tables,611,-26,153,4,153
+2013,massachusetts,Appliances,902,298,301,3,301
+2013,massachusetts,Art,40,10,20,2,20
+2013,massachusetts,Binders,81,37,9,9,9
+2013,massachusetts,Fasteners,12,5,3,4,3
+2013,massachusetts,Labels,141,65,16,9,16
+2013,massachusetts,Paper,328,154,17,19,17
+2013,massachusetts,Storage,726,211,121,6,121
+2013,massachusetts,Phones,198,65,33,6,33
+2013,new hampshire,Furnishings,344,71,49,7,49
+2013,new hampshire,Supplies,28,8,9,3,9
+2013,new hampshire,Accessories,562,138,94,6,94
+2013,new jersey,Bookcases,121,12,121,1,121
+2013,new jersey,Chairs,563,83,80,7,80
+2013,new jersey,Furnishings,119,52,13,9,13
+2013,new jersey,Tables,418,-51,105,4,105
+2013,new jersey,Appliances,1148,352,72,16,72
+2013,new jersey,Art,49,13,6,8,6
+2013,new jersey,Binders,2263,1065,103,22,103
+2013,new jersey,Envelopes,103,49,10,10,10
+2013,new jersey,Fasteners,23,1,2,10,2
+2013,new jersey,Paper,494,237,18,27,18
+2013,new jersey,Storage,1687,79,112,15,112
+2013,new jersey,Supplies,28,8,9,3,9
+2013,new jersey,Accessories,350,122,44,8,44
+2013,new jersey,Machines,9420,2484,628,15,628
+2013,new jersey,Phones,1200,442,120,10,120
+2013,new york,Bookcases,2995,33,125,24,125
+2013,new york,Chairs,11493,1806,137,84,137
+2013,new york,Furnishings,4268,1227,34,124,34
+2013,new york,Tables,3235,-1191,135,24,135
+2013,new york,Appliances,3286,941,73,45,73
+2013,new york,Art,1352,389,11,125,11
+2013,new york,Binders,11835,3931,53,223,53
+2013,new york,Envelopes,416,188,32,13,32
+2013,new york,Fasteners,174,75,3,50,3
+2013,new york,Labels,323,151,9,37,9
+2013,new york,Paper,1994,941,17,119,17
+2013,new york,Storage,8891,1194,67,132,67
+2013,new york,Supplies,1129,100,25,45,25
+2013,new york,Accessories,2024,624,37,55,37
+2013,new york,Copiers,480,90,240,2,240
+2013,new york,Machines,10250,3925,683,15,683
+2013,new york,Phones,7699,2230,101,76,101
+2013,ohio,Bookcases,688,-458,63,11,63
+2013,ohio,Chairs,4387,-202,137,32,137
+2013,ohio,Furnishings,1619,134,27,59,27
+2013,ohio,Tables,1195,-437,171,7,171
+2013,ohio,Appliances,1777,176,54,33,54
+2013,ohio,Art,163,13,10,17,10
+2013,ohio,Binders,801,-567,11,76,11
+2013,ohio,Envelopes,295,101,23,13,23
+2013,ohio,Fasteners,60,20,3,21,3
+2013,ohio,Labels,40,14,3,16,3
+2013,ohio,Paper,1018,355,18,58,18
+2013,ohio,Storage,2242,-89,55,41,55
+2013,ohio,Supplies,42,-1,5,9,5
+2013,ohio,Accessories,2137,146,46,46,46
+2013,ohio,Copiers,2280,262,380,6,380
+2013,ohio,Machines,4755,-6789,317,15,317
+2013,ohio,Phones,1093,-245,33,33,33
+2013,pennsylvania,Bookcases,341,-160,38,9,38
+2013,pennsylvania,Chairs,4416,-439,119,37,119
+2013,pennsylvania,Furnishings,998,12,23,43,23
+2013,pennsylvania,Tables,1394,-514,93,15,93
+2013,pennsylvania,Appliances,1374,228,81,17,81
+2013,pennsylvania,Art,193,23,5,38,5
+2013,pennsylvania,Binders,3069,-2100,34,90,34
+2013,pennsylvania,Envelopes,67,25,17,4,17
+2013,pennsylvania,Fasteners,76,12,2,38,2
+2013,pennsylvania,Labels,179,60,5,34,5
+2013,pennsylvania,Paper,550,188,11,51,11
+2013,pennsylvania,Storage,1697,-266,44,39,44
+2013,pennsylvania,Supplies,787,-162,98,8,98
+2013,pennsylvania,Accessories,656,70,47,14,47
+2013,pennsylvania,Copiers,9600,1300,1200,8,1200
+2013,pennsylvania,Machines,791,-963,132,6,132
+2013,pennsylvania,Phones,6879,-1499,109,63,109
+2013,rhode island,Chairs,872,244,218,4,218
+2013,rhode island,Furnishings,72,24,12,6,12
+2013,rhode island,Binders,80,38,20,4,20
+2013,rhode island,Paper,142,69,20,7,20
+2013,rhode island,Storage,3889,1117,162,24,162
+2013,rhode island,Copiers,7400,3492,569,13,569
+2013,rhode island,Phones,630,176,126,5,126
+2013,vermont,Art,8,3,1,6,1
+2013,vermont,Storage,1564,407,120,13,120
+2013,vermont,Accessories,100,43,50,2,50
+2013,vermont,Phones,1295,337,259,5,259
+2013,alabama,Chairs,351,84,351,1,351
+2013,alabama,Appliances,208,56,208,1,208
+2013,alabama,Art,223,67,14,16,14
+2013,alabama,Binders,228,112,12,19,12
+2013,alabama,Paper,89,43,9,10,9
+2013,alabama,Storage,973,137,88,11,88
+2013,alabama,Accessories,1559,607,173,9,173
+2013,alabama,Machines,3040,1459,380,8,380
+2013,alabama,Phones,980,274,196,5,196
+2013,arkansas,Furnishings,504,170,56,9,56
+2013,arkansas,Art,31,10,3,11,3
+2013,arkansas,Binders,76,36,13,6,13
+2013,arkansas,Fasteners,30,14,5,6,5
+2013,arkansas,Paper,593,285,24,25,24
+2013,arkansas,Accessories,930,382,66,14,66
+2013,arkansas,Phones,60,18,30,2,30
+2013,florida,Bookcases,629,19,90,7,90
+2013,florida,Chairs,598,-53,60,10,60
+2013,florida,Furnishings,553,86,20,27,20
+2013,florida,Tables,1277,-537,71,18,71
+2013,florida,Appliances,932,85,104,9,104
+2013,florida,Art,76,9,5,14,5
+2013,florida,Binders,595,-423,7,89,7
+2013,florida,Labels,39,14,4,11,4
+2013,florida,Paper,541,185,9,58,9
+2013,florida,Storage,742,58,44,17,44
+2013,florida,Supplies,1007,-199,84,12,84
+2013,florida,Accessories,690,-21,53,13,53
+2013,florida,Machines,961,-139,320,3,320
+2013,florida,Phones,4892,432,104,47,104
+2013,georgia,Bookcases,1862,433,133,14,133
+2013,georgia,Chairs,673,165,84,8,84
+2013,georgia,Furnishings,426,124,18,24,18
+2013,georgia,Art,105,28,7,16,7
+2013,georgia,Binders,1364,680,97,14,97
+2013,georgia,Envelopes,311,146,22,14,22
+2013,georgia,Fasteners,9,0,2,5,2
+2013,georgia,Labels,15,7,5,3,5
+2013,georgia,Paper,906,436,31,29,31
+2013,georgia,Storage,5842,862,158,37,158
+2013,georgia,Supplies,5,0,3,2,3
+2013,georgia,Accessories,1418,280,64,22,64
+2013,georgia,Machines,396,190,99,4,99
+2013,georgia,Phones,726,194,104,7,104
+2013,kentucky,Bookcases,262,42,131,2,131
+2013,kentucky,Chairs,1739,484,217,8,217
+2013,kentucky,Furnishings,590,142,35,17,35
+2013,kentucky,Tables,843,160,281,3,281
+2013,kentucky,Art,22,7,3,7,3
+2013,kentucky,Binders,120,57,17,7,17
+2013,kentucky,Fasteners,31,15,4,7,4
+2013,kentucky,Labels,3,1,3,1,3
+2013,kentucky,Paper,79,36,26,3,26
+2013,kentucky,Storage,715,75,55,13,55
+2013,kentucky,Phones,700,196,350,2,350
+2013,louisiana,Appliances,17,5,9,2,9
+2013,louisiana,Art,73,21,15,5,15
+2013,louisiana,Binders,87,41,11,8,11
+2013,louisiana,Paper,13,6,7,2,7
+2013,louisiana,Accessories,72,15,36,2,36
+2013,mississippi,Bookcases,505,126,101,5,101
+2013,mississippi,Furnishings,424,180,18,23,18
+2013,mississippi,Tables,2430,389,304,8,304
+2013,mississippi,Art,550,147,28,20,28
+2013,mississippi,Binders,645,303,38,17,38
+2013,mississippi,Fasteners,23,0,8,3,8
+2013,mississippi,Paper,677,321,25,27,25
+2013,mississippi,Storage,96,1,19,5,19
+2013,mississippi,Accessories,66,9,22,3,22
+2013,north carolina,Bookcases,451,-68,113,4,113
+2013,north carolina,Chairs,977,33,54,18,54
+2013,north carolina,Furnishings,366,43,14,26,14
+2013,north carolina,Tables,1979,-641,116,17,116
+2013,north carolina,Appliances,979,108,49,20,49
+2013,north carolina,Art,86,15,10,9,10
+2013,north carolina,Binders,355,-271,8,46,8
+2013,north carolina,Envelopes,131,43,19,7,19
+2013,north carolina,Labels,15,5,2,7,2
+2013,north carolina,Paper,374,132,13,29,13
+2013,north carolina,Storage,1932,-107,74,26,74
+2013,north carolina,Supplies,299,-28,20,15,20
+2013,north carolina,Accessories,2232,524,60,37,60
+2013,north carolina,Copiers,960,120,240,4,240
+2013,north carolina,Phones,3832,352,153,25,153
+2013,south carolina,Art,22,6,7,3,7
+2013,south carolina,Binders,103,49,9,11,9
+2013,south carolina,Envelopes,10,5,2,5,2
+2013,south carolina,Paper,99,48,7,15,7
+2013,south carolina,Storage,192,19,32,6,32
+2013,south carolina,Accessories,76,18,38,2,38
+2013,tennessee,Furnishings,273,14,16,17,16
+2013,tennessee,Tables,640,-266,71,9,71
+2013,tennessee,Appliances,959,96,192,5,192
+2013,tennessee,Art,156,24,10,15,10
+2013,tennessee,Binders,191,-137,6,32,6
+2013,tennessee,Envelopes,23,8,8,3,8
+2013,tennessee,Labels,4,1,4,1,4
+2013,tennessee,Paper,192,64,9,21,9
+2013,tennessee,Storage,112,7,12,9,12
+2013,tennessee,Accessories,35,8,9,4,9
+2013,tennessee,Machines,91,-2,91,1,91
+2013,tennessee,Phones,453,21,28,16,28
+2013,virginia,Chairs,1992,563,285,7,285
+2013,virginia,Furnishings,2247,520,52,43,52
+2013,virginia,Tables,5329,935,222,24,222
+2013,virginia,Appliances,2512,809,157,16,157
+2013,virginia,Art,47,15,4,13,4
+2013,virginia,Binders,348,171,15,24,15
+2013,virginia,Envelopes,420,198,18,24,18
+2013,virginia,Fasteners,11,5,4,3,4
+2013,virginia,Labels,213,104,10,21,10
+2013,virginia,Paper,336,161,34,10,34
+2013,virginia,Storage,237,35,14,17,14
+2013,virginia,Supplies,145,42,12,12,12
+2013,virginia,Accessories,2302,722,128,18,128
+2013,virginia,Copiers,1600,752,200,8,200
+2013,virginia,Machines,8750,2800,1750,5,1750
+2013,virginia,Phones,201,20,22,9,22
+2013,arizona,Chairs,1289,75,117,11,117
+2013,arizona,Furnishings,319,33,20,16,20
+2013,arizona,Tables,2157,-1262,135,16,135
+2013,arizona,Appliances,266,27,30,9,30
+2013,arizona,Art,15,2,2,7,2
+2013,arizona,Binders,164,-124,4,40,4
+2013,arizona,Fasteners,32,10,6,5,6
+2013,arizona,Paper,30,10,5,6,5
+2013,arizona,Storage,204,16,19,11,19
+2013,arizona,Supplies,219,-31,31,7,31
+2013,arizona,Accessories,363,64,26,14,26
+2013,arizona,Machines,270,-387,135,2,135
+2013,arizona,Phones,912,81,76,12,76
+2013,california,Bookcases,7841,567,191,41,191
+2013,california,Chairs,18862,719,143,132,143
+2013,california,Furnishings,6140,1806,30,204,30
+2013,california,Tables,17084,-223,206,83,206
+2013,california,Appliances,4126,1297,45,91,45
+2013,california,Art,803,239,7,122,7
+2013,california,Binders,4889,1702,16,299,16
+2013,california,Envelopes,1148,546,27,43,27
+2013,california,Fasteners,111,40,3,42,3
+2013,california,Labels,464,221,5,85,5
+2013,california,Paper,4782,2275,15,323,15
+2013,california,Storage,9656,1611,64,150,64
+2013,california,Supplies,5928,294,180,33,180
+2013,california,Accessories,12315,3393,88,140,88
+2013,california,Copiers,7280,2427,455,16,455
+2013,california,Machines,9557,1152,478,20,478
+2013,california,Phones,20226,1904,120,169,120
+2013,colorado,Bookcases,163,-290,41,4,41
+2013,colorado,Chairs,5342,451,191,28,191
+2013,colorado,Furnishings,510,22,22,23,22
+2013,colorado,Tables,727,-466,145,5,145
+2013,colorado,Appliances,141,16,28,5,28
+2013,colorado,Art,11,3,6,2,6
+2013,colorado,Binders,163,-122,5,36,5
+2013,colorado,Labels,6,2,2,3,2
+2013,colorado,Paper,93,33,9,10,9
+2013,colorado,Storage,1720,-183,72,24,72
+2013,colorado,Accessories,353,25,27,13,27
+2013,colorado,Machines,704,-938,117,6,117
+2013,colorado,Phones,732,58,56,13,56
+2013,idaho,Tables,1128,260,376,3,376
+2013,idaho,Binders,37,12,5,7,5
+2013,idaho,Paper,18,9,6,3,6
+2013,nevada,Tables,1686,320,281,6,281
+2013,nevada,Art,113,29,38,3,38
+2013,nevada,Binders,4542,1646,908,5,908
+2013,nevada,Paper,36,18,6,6,6
+2013,nevada,Supplies,86,25,17,5,17
+2013,nevada,Accessories,59,19,30,2,30
+2013,nevada,Machines,2396,180,240,10,240
+2013,new mexico,Binders,36,12,6,6,6
+2013,new mexico,Envelopes,28,13,6,5,6
+2013,oregon,Chairs,1584,-76,99,16,99
+2013,oregon,Furnishings,35,8,7,5,7
+2013,oregon,Tables,942,-569,118,8,118
+2013,oregon,Appliances,87,9,44,2,44
+2013,oregon,Art,19,2,5,4,5
+2013,oregon,Binders,129,-94,4,33,4
+2013,oregon,Envelopes,28,10,9,3,9
+2013,oregon,Labels,645,233,54,12,54
+2013,oregon,Paper,296,101,11,27,11
+2013,oregon,Supplies,18,-4,3,7,3
+2013,oregon,Accessories,113,-8,38,3,38
+2013,oregon,Machines,180,-252,60,3,60
+2013,oregon,Phones,1376,73,115,12,115
+2013,utah,Art,46,13,23,2,23
+2013,utah,Binders,42,13,8,5,8
+2013,utah,Paper,190,89,9,21,9
+2013,utah,Supplies,44,12,9,5,9
+2013,utah,Copiers,1500,450,300,5,300
+2013,washington,Bookcases,212,49,71,3,71
+2013,washington,Chairs,2546,-68,85,30,85
+2013,washington,Furnishings,785,234,17,46,17
+2013,washington,Tables,2862,964,239,12,239
+2013,washington,Appliances,380,113,22,17,22
+2013,washington,Art,110,33,6,18,6
+2013,washington,Binders,2360,763,21,114,21
+2013,washington,Envelopes,355,168,22,16,22
+2013,washington,Fasteners,121,14,6,20,6
+2013,washington,Labels,133,63,7,18,7
+2013,washington,Paper,1001,472,15,66,15
+2013,washington,Storage,1461,89,133,11,133
+2013,washington,Supplies,145,28,8,18,8
+2013,washington,Accessories,2280,479,69,33,69
+2013,washington,Copiers,1000,450,500,2,500
+2013,washington,Machines,1687,129,241,7,241
+2013,washington,Phones,2377,230,119,20,119
+2013,wyoming,Chairs,1603,100,401,4,401
+2014,illinois,Bookcases,1009,-155,92,11,92
+2014,illinois,Chairs,4638,-579,91,51,91
+2014,illinois,Furnishings,664,-582,14,47,14
+2014,illinois,Tables,2454,-1627,102,24,102
+2014,illinois,Appliances,161,-421,8,19,8
+2014,illinois,Art,486,77,7,74,7
+2014,illinois,Binders,3305,-5155,24,137,24
+2014,illinois,Envelopes,334,115,26,13,26
+2014,illinois,Fasteners,60,20,4,15,4
+2014,illinois,Labels,70,26,5,14,5
+2014,illinois,Paper,1347,466,14,96,14
+2014,illinois,Storage,1926,-114,49,39,49
+2014,illinois,Supplies,54,5,8,7,8
+2014,illinois,Accessories,1406,258,38,37,38
+2014,illinois,Copiers,960,336,480,2,480
+2014,illinois,Machines,210,9,105,2,105
+2014,illinois,Phones,5268,576,120,44,120
+2014,indiana,Chairs,2754,780,306,9,306
+2014,indiana,Furnishings,1230,111,62,20,62
+2014,indiana,Tables,258,67,86,3,86
+2014,indiana,Appliances,3780,1154,158,24,158
+2014,indiana,Art,12,5,6,2,6
+2014,indiana,Binders,1780,808,85,21,85
+2014,indiana,Envelopes,251,116,31,8,31
+2014,indiana,Fasteners,3,0,2,2,2
+2014,indiana,Labels,133,67,15,9,15
+2014,indiana,Paper,1020,483,19,54,19
+2014,indiana,Storage,2426,181,90,27,90
+2014,indiana,Accessories,790,241,28,28,28
+2014,indiana,Phones,4080,1127,185,22,185
+2014,iowa,Furnishings,49,19,5,10,5
+2014,iowa,Art,71,23,12,6,12
+2014,iowa,Binders,64,31,6,11,6
+2014,iowa,Envelopes,7,3,7,1,7
+2014,iowa,Fasteners,46,22,12,4,12
+2014,iowa,Paper,259,122,17,15,17
+2014,iowa,Storage,13,4,13,1,13
+2014,iowa,Phones,207,52,69,3,69
+2014,kansas,Art,28,9,5,6,5
+2014,kansas,Fasteners,18,9,6,3,6
+2014,kansas,Paper,293,143,42,7,42
+2014,kansas,Storage,394,102,131,3,131
+2014,michigan,Bookcases,242,41,121,2,121
+2014,michigan,Chairs,5892,1590,190,31,190
+2014,michigan,Furnishings,848,250,34,25,34
+2014,michigan,Tables,623,91,156,4,156
+2014,michigan,Appliances,87,18,44,2,44
+2014,michigan,Art,289,92,13,23,13
+2014,michigan,Binders,7642,3539,118,65,118
+2014,michigan,Envelopes,17,8,9,2,9
+2014,michigan,Fasteners,52,16,6,9,6
+2014,michigan,Labels,28,13,3,9,3
+2014,michigan,Paper,317,150,18,18,18
+2014,michigan,Storage,1169,127,73,16,73
+2014,michigan,Supplies,4,0,2,2,2
+2014,michigan,Accessories,3171,1175,106,30,106
+2014,michigan,Machines,3411,832,682,5,682
+2014,michigan,Phones,2041,545,136,15,136
+2014,minnesota,Chairs,874,232,125,7,125
+2014,minnesota,Tables,608,97,304,2,304
+2014,minnesota,Appliances,454,130,41,11,41
+2014,minnesota,Art,53,18,2,23,2
+2014,minnesota,Binders,2717,1266,136,20,136
+2014,minnesota,Envelopes,31,15,8,4,8
+2014,minnesota,Fasteners,43,19,5,9,5
+2014,minnesota,Labels,116,55,7,16,7
+2014,minnesota,Paper,53,25,9,6,9
+2014,minnesota,Storage,389,102,24,16,24
+2014,minnesota,Supplies,37,11,9,4,9
+2014,minnesota,Accessories,1355,489,68,20,68
+2014,missouri,Bookcases,213,53,71,3,71
+2014,missouri,Furnishings,262,78,33,8,33
+2014,missouri,Appliances,1688,459,68,25,68
+2014,missouri,Art,210,55,35,6,35
+2014,missouri,Binders,1660,797,92,18,92
+2014,missouri,Envelopes,28,13,6,5,6
+2014,missouri,Paper,69,33,6,12,6
+2014,missouri,Storage,380,41,42,9,42
+2014,missouri,Supplies,4164,83,833,5,833
+2014,missouri,Accessories,561,119,33,17,33
+2014,missouri,Phones,115,2,23,5,23
+2014,nebraska,Furnishings,16,7,8,2,8
+2014,nebraska,Binders,88,41,11,8,11
+2014,nebraska,Fasteners,24,1,5,5,5
+2014,nebraska,Paper,141,68,24,6,24
+2014,nebraska,Storage,751,38,376,2,376
+2014,nebraska,Phones,2560,766,320,8,320
+2014,north dakota,Art,182,52,10,18,10
+2014,north dakota,Binders,26,13,5,5,5
+2014,north dakota,Fasteners,7,3,2,3,2
+2014,north dakota,Storage,705,162,176,4,176
+2014,oklahoma,Chairs,2109,596,234,9,234
+2014,oklahoma,Furnishings,477,138,95,5,95
+2014,oklahoma,Tables,511,118,170,3,170
+2014,oklahoma,Appliances,151,64,30,5,30
+2014,oklahoma,Art,43,14,7,6,7
+2014,oklahoma,Binders,82,41,5,16,5
+2014,oklahoma,Envelopes,326,150,163,2,163
+2014,oklahoma,Storage,333,23,111,3,111
+2014,oklahoma,Accessories,292,102,73,4,73
+2014,oklahoma,Phones,1902,508,173,11,173
+2014,south dakota,Chairs,183,27,61,3,61
+2014,south dakota,Appliances,416,112,208,2,208
+2014,south dakota,Binders,104,51,9,12,9
+2014,south dakota,Labels,35,16,4,9,4
+2014,south dakota,Supplies,26,7,9,3,9
+2014,south dakota,Accessories,390,133,130,3,130
+2014,texas,Bookcases,3717,-492,113,33,113
+2014,texas,Chairs,4783,-417,102,47,102
+2014,texas,Furnishings,1375,-1387,19,71,19
+2014,texas,Tables,6136,-909,128,48,128
+2014,texas,Appliances,859,-2216,11,80,11
+2014,texas,Art,918,154,8,121,8
+2014,texas,Binders,3505,-5453,15,236,15
+2014,texas,Envelopes,202,67,12,17,12
+2014,texas,Fasteners,67,21,4,17,4
+2014,texas,Labels,112,39,4,26,4
+2014,texas,Paper,2466,851,13,189,13
+2014,texas,Storage,5044,-300,50,100,50
+2014,texas,Supplies,101,6,5,19,5
+2014,texas,Accessories,2093,170,36,58,36
+2014,texas,Copiers,2720,678,389,7,389
+2014,texas,Machines,2374,-169,264,9,264
+2014,texas,Phones,6952,519,87,80,87
+2014,wisconsin,Bookcases,460,41,115,4,115
+2014,wisconsin,Chairs,1987,483,181,11,181
+2014,wisconsin,Furnishings,153,45,19,8,19
+2014,wisconsin,Appliances,1337,386,96,14,96
+2014,wisconsin,Binders,133,64,5,28,5
+2014,wisconsin,Labels,94,43,16,6,16
+2014,wisconsin,Paper,270,131,23,12,23
+2014,wisconsin,Storage,163,44,18,9,18
+2014,wisconsin,Supplies,22,6,7,3,7
+2014,wisconsin,Accessories,863,255,32,27,32
+2014,wisconsin,Phones,87,25,29,3,29
+2014,connecticut,Bookcases,639,185,71,9,71
+2014,connecticut,Chairs,897,251,299,3,299
+2014,connecticut,Furnishings,235,57,34,7,34
+2014,connecticut,Appliances,892,245,99,9,99
+2014,connecticut,Art,134,53,11,12,11
+2014,connecticut,Binders,51,25,9,6,9
+2014,connecticut,Envelopes,11,5,4,3,4
+2014,connecticut,Labels,19,9,3,7,3
+2014,connecticut,Paper,618,299,28,22,28
+2014,connecticut,Storage,1111,170,74,15,74
+2014,connecticut,Supplies,31,8,10,3,10
+2014,connecticut,Accessories,398,91,80,5,80
+2014,connecticut,Phones,273,82,91,3,91
+2014,delaware,Bookcases,442,102,221,2,221
+2014,delaware,Furnishings,124,15,21,6,21
+2014,delaware,Tables,310,-49,103,3,103
+2014,delaware,Appliances,101,33,14,7,14
+2014,delaware,Art,419,115,20,21,20
+2014,delaware,Binders,1187,559,59,20,59
+2014,delaware,Envelopes,58,27,8,7,8
+2014,delaware,Paper,80,39,11,7,11
+2014,delaware,Accessories,142,58,28,5,28
+2014,delaware,Copiers,10500,5040,3500,3,3500
+2014,delaware,Phones,392,114,196,2,196
+2014,district of columbia,Furnishings,38,16,19,2,19
+2014,district of columbia,Paper,40,19,7,6,7
+2014,maryland,Chairs,3224,668,170,19,170
+2014,maryland,Furnishings,1509,451,52,29,52
+2014,maryland,Appliances,216,63,22,10,22
+2014,maryland,Art,305,85,13,24,13
+2014,maryland,Binders,265,125,15,18,15
+2014,maryland,Labels,74,37,15,5,15
+2014,maryland,Paper,600,291,27,22,27
+2014,maryland,Storage,2178,631,182,12,182
+2014,maryland,Supplies,25,7,8,3,8
+2014,maryland,Accessories,966,379,107,9,107
+2014,maryland,Phones,90,43,18,5,18
+2014,massachusetts,Bookcases,783,204,261,3,261
+2014,massachusetts,Furnishings,83,26,17,5,17
+2014,massachusetts,Tables,2015,-350,224,9,224
+2014,massachusetts,Appliances,287,80,41,7,41
+2014,massachusetts,Art,103,32,9,12,9
+2014,massachusetts,Binders,643,305,49,13,49
+2014,massachusetts,Fasteners,17,8,3,6,3
+2014,massachusetts,Labels,22,10,7,3,7
+2014,massachusetts,Paper,419,201,15,28,15
+2014,massachusetts,Storage,147,21,21,7,21
+2014,massachusetts,Supplies,30,7,6,5,6
+2014,massachusetts,Accessories,346,126,22,16,22
+2014,massachusetts,Copiers,1200,468,600,2,600
+2014,massachusetts,Phones,2049,573,98,21,98
+2014,new hampshire,Furnishings,350,128,39,9,39
+2014,new hampshire,Art,228,68,38,6,38
+2014,new hampshire,Fasteners,15,7,3,6,3
+2014,new hampshire,Labels,25,12,3,8,3
+2014,new hampshire,Storage,67,18,13,5,13
+2014,new hampshire,Phones,825,247,165,5,165
+2014,new jersey,Bookcases,2155,129,431,5,431
+2014,new jersey,Chairs,998,207,100,10,100
+2014,new jersey,Furnishings,348,86,17,21,17
+2014,new jersey,Appliances,163,43,12,14,12
+2014,new jersey,Art,80,21,13,6,13
+2014,new jersey,Binders,776,349,111,7,111
+2014,new jersey,Fasteners,32,15,3,10,3
+2014,new jersey,Labels,21,10,4,5,4
+2014,new jersey,Paper,342,164,31,11,31
+2014,new jersey,Storage,2920,683,172,17,172
+2014,new jersey,Supplies,87,25,12,7,12
+2014,new jersey,Accessories,404,126,29,14,29
+2014,new jersey,Machines,480,226,120,4,120
+2014,new jersey,Phones,678,182,75,9,75
+2014,new york,Bookcases,2764,-28,120,23,120
+2014,new york,Chairs,15459,2450,170,91,170
+2014,new york,Furnishings,3470,942,26,132,26
+2014,new york,Tables,1930,-601,148,13,148
+2014,new york,Appliances,5930,1646,106,56,106
+2014,new york,Art,751,237,8,100,8
+2014,new york,Binders,8463,2843,44,193,44
+2014,new york,Envelopes,535,250,19,28,19
+2014,new york,Fasteners,42,13,3,13,3
+2014,new york,Labels,460,219,7,63,7
+2014,new york,Paper,2977,1424,16,186,16
+2014,new york,Storage,6656,1257,67,99,67
+2014,new york,Supplies,864,106,35,25,35
+2014,new york,Accessories,4786,1264,44,110,44
+2014,new york,Copiers,11200,3920,2800,4,2800
+2014,new york,Machines,10440,3848,348,30,348
+2014,new york,Phones,17196,4567,112,153,112
+2014,ohio,Bookcases,116,-65,29,4,29
+2014,ohio,Chairs,1927,-109,120,16,120
+2014,ohio,Furnishings,1073,247,21,52,21
+2014,ohio,Tables,2621,-650,146,18,146
+2014,ohio,Appliances,1885,212,61,31,61
+2014,ohio,Art,384,57,6,65,6
+2014,ohio,Binders,445,-334,5,97,5
+2014,ohio,Envelopes,82,30,12,7,12
+2014,ohio,Fasteners,66,21,3,25,3
+2014,ohio,Labels,45,15,3,15,3
+2014,ohio,Paper,626,213,9,67,9
+2014,ohio,Storage,3108,-10,66,47,66
+2014,ohio,Supplies,385,-82,193,2,193
+2014,ohio,Accessories,2921,567,41,72,41
+2014,ohio,Copiers,900,75,300,3,300
+2014,ohio,Machines,653,-936,93,7,93
+2014,ohio,Phones,6186,-1023,78,79,78
+2014,pennsylvania,Bookcases,218,-134,44,5,44
+2014,pennsylvania,Chairs,8728,-1091,141,62,141
+2014,pennsylvania,Furnishings,2982,231,31,95,31
+2014,pennsylvania,Tables,3397,-1037,126,27,126
+2014,pennsylvania,Appliances,2273,352,126,18,126
+2014,pennsylvania,Art,202,23,6,36,6
+2014,pennsylvania,Binders,1892,-1440,17,109,17
+2014,pennsylvania,Envelopes,159,54,9,18,9
+2014,pennsylvania,Fasteners,16,4,2,7,2
+2014,pennsylvania,Labels,126,43,5,28,5
+2014,pennsylvania,Paper,921,316,10,94,10
+2014,pennsylvania,Storage,3284,-446,73,45,73
+2014,pennsylvania,Supplies,4902,-1087,350,14,350
+2014,pennsylvania,Accessories,4347,583,74,59,74
+2014,pennsylvania,Copiers,600,70,120,5,120
+2014,pennsylvania,Machines,254,-187,85,3,85
+2014,pennsylvania,Phones,8386,-1368,95,88,95
+2014,rhode island,Bookcases,221,51,221,1,221
+2014,rhode island,Furnishings,246,65,41,6,41
+2014,rhode island,Tables,879,-141,126,7,126
+2014,rhode island,Appliances,2,1,2,1,2
+2014,rhode island,Binders,178,85,16,11,16
+2014,rhode island,Paper,199,94,7,28,7
+2014,rhode island,Storage,685,181,76,9,76
+2014,rhode island,Supplies,695,35,116,6,116
+2014,rhode island,Accessories,322,98,54,6,54
+2014,vermont,Appliances,543,152,181,3,181
+2014,vermont,Envelopes,2,1,2,1,2
+2014,vermont,Paper,92,43,18,5,18
+2014,vermont,Accessories,205,68,29,7,29
+2014,west virginia,Tables,673,-77,224,3,224
+2014,west virginia,Binders,89,43,13,7,13
+2014,west virginia,Paper,448,219,56,8,56
+2014,alabama,Chairs,142,35,71,2,71
+2014,alabama,Furnishings,10,3,5,2,5
+2014,alabama,Art,19,5,2,9,2
+2014,alabama,Binders,67,32,5,13,5
+2014,alabama,Fasteners,4,1,2,2,2
+2014,alabama,Labels,15,7,5,3,5
+2014,alabama,Paper,738,354,74,10,74
+2014,alabama,Supplies,477,10,119,4,119
+2014,alabama,Accessories,266,26,27,10,27
+2014,alabama,Phones,90,24,45,2,45
+2014,arkansas,Art,18,6,3,6,3
+2014,arkansas,Binders,996,465,36,28,36
+2014,arkansas,Envelopes,183,86,61,3,61
+2014,arkansas,Paper,98,46,16,6,16
+2014,arkansas,Storage,430,32,54,8,54
+2014,arkansas,Accessories,488,176,20,24,20
+2014,arkansas,Phones,495,148,165,3,165
+2014,florida,Bookcases,1280,-97,128,10,128
+2014,florida,Chairs,5219,-98,201,26,201
+2014,florida,Furnishings,1357,85,26,53,26
+2014,florida,Tables,2510,-1228,167,15,167
+2014,florida,Appliances,1856,205,50,37,50
+2014,florida,Art,228,23,9,26,9
+2014,florida,Binders,243,-176,4,56,4
+2014,florida,Envelopes,73,25,8,9,8
+2014,florida,Labels,292,104,13,22,13
+2014,florida,Paper,1001,349,15,67,15
+2014,florida,Storage,1856,29,69,27,69
+2014,florida,Supplies,6,0,2,3,2
+2014,florida,Accessories,1236,43,69,18,69
+2014,florida,Copiers,960,312,480,2,480
+2014,florida,Machines,120,-7,60,2,60
+2014,florida,Phones,8279,687,169,49,169
+2014,georgia,Bookcases,1932,450,161,12,161
+2014,georgia,Chairs,724,188,181,4,181
+2014,georgia,Furnishings,182,61,10,18,10
+2014,georgia,Tables,865,138,173,5,173
+2014,georgia,Appliances,2033,569,97,21,97
+2014,georgia,Art,207,66,10,21,10
+2014,georgia,Binders,3101,1458,103,30,103
+2014,georgia,Fasteners,6,0,2,3,2
+2014,georgia,Labels,49,23,5,10,5
+2014,georgia,Paper,1157,549,24,48,24
+2014,georgia,Storage,791,118,99,8,99
+2014,georgia,Supplies,34,10,17,2,17
+2014,georgia,Accessories,580,178,53,11,53
+2014,georgia,Copiers,3000,1440,600,5,600
+2014,georgia,Phones,4500,1199,122,37,122
+2014,kentucky,Chairs,4086,1116,157,26,157
+2014,kentucky,Furnishings,910,251,70,13,70
+2014,kentucky,Appliances,872,246,44,20,44
+2014,kentucky,Art,35,10,35,1,35
+2014,kentucky,Binders,1947,930,85,23,85
+2014,kentucky,Envelopes,5,3,3,2,3
+2014,kentucky,Fasteners,14,7,4,4,4
+2014,kentucky,Labels,36,17,4,10,4
+2014,kentucky,Paper,46,21,6,8,6
+2014,kentucky,Storage,2070,511,59,35,59
+2014,kentucky,Supplies,61,11,15,4,15
+2014,kentucky,Accessories,2584,607,103,25,103
+2014,kentucky,Copiers,1400,630,700,2,700
+2014,kentucky,Phones,1470,392,113,13,113
+2014,louisiana,Bookcases,388,57,78,5,78
+2014,louisiana,Chairs,233,61,58,4,58
+2014,louisiana,Furnishings,23,10,3,8,3
+2014,louisiana,Tables,1505,346,376,4,376
+2014,louisiana,Binders,481,222,40,12,40
+2014,louisiana,Labels,11,5,4,3,4
+2014,louisiana,Paper,26,12,7,4,7
+2014,louisiana,Supplies,1666,33,833,2,833
+2014,louisiana,Accessories,660,218,330,2,330
+2014,louisiana,Machines,480,240,160,3,160
+2014,louisiana,Phones,29,8,10,3,10
+2014,mississippi,Chairs,866,225,217,4,217
+2014,mississippi,Appliances,583,168,97,6,97
+2014,mississippi,Binders,280,134,20,14,20
+2014,mississippi,Envelopes,91,43,7,13,7
+2014,mississippi,Fasteners,12,5,3,4,3
+2014,mississippi,Storage,174,43,35,5,35
+2014,mississippi,Accessories,952,407,95,10,95
+2014,mississippi,Phones,39,1,13,3,13
+2014,north carolina,Bookcases,508,-30,34,15,34
+2014,north carolina,Chairs,1539,83,103,15,103
+2014,north carolina,Furnishings,138,24,20,7,20
+2014,north carolina,Tables,2460,-881,189,13,189
+2014,north carolina,Appliances,1810,177,95,19,95
+2014,north carolina,Art,177,22,4,49,4
+2014,north carolina,Binders,1923,-1523,26,74,26
+2014,north carolina,Envelopes,87,29,22,4,22
+2014,north carolina,Fasteners,19,6,6,3,6
+2014,north carolina,Labels,122,40,24,5,24
+2014,north carolina,Paper,958,334,18,54,18
+2014,north carolina,Storage,1335,15,79,17,79
+2014,north carolina,Accessories,1020,227,46,22,46
+2014,north carolina,Machines,8696,-3868,1449,6,1449
+2014,north carolina,Phones,2663,258,83,32,83
+2014,south carolina,Chairs,302,33,151,2,151
+2014,south carolina,Furnishings,143,26,29,5,29
+2014,south carolina,Binders,352,169,25,14,25
+2014,south carolina,Storage,685,27,57,12,57
+2014,south carolina,Phones,79,40,40,2,40
+2014,tennessee,Bookcases,387,-15,97,4,97
+2014,tennessee,Chairs,1338,38,149,9,149
+2014,tennessee,Furnishings,530,79,13,40,13
+2014,tennessee,Tables,5245,-2249,238,22,238
+2014,tennessee,Appliances,510,63,21,24,21
+2014,tennessee,Art,227,25,6,35,6
+2014,tennessee,Binders,1721,-1320,52,33,52
+2014,tennessee,Envelopes,98,36,7,15,7
+2014,tennessee,Fasteners,24,9,5,5,5
+2014,tennessee,Labels,13,4,3,5,3
+2014,tennessee,Paper,586,205,12,47,12
+2014,tennessee,Storage,1742,-170,76,23,76
+2014,tennessee,Supplies,9,-2,3,3,3
+2014,tennessee,Accessories,298,39,20,15,20
+2014,tennessee,Machines,649,-273,325,2,325
+2014,tennessee,Phones,2736,226,124,22,124
+2014,virginia,Bookcases,663,149,111,6,111
+2014,virginia,Chairs,1207,249,172,7,172
+2014,virginia,Furnishings,91,29,8,11,8
+2014,virginia,Tables,1522,276,152,10,152
+2014,virginia,Appliances,283,83,28,10,28
+2014,virginia,Art,426,125,11,38,11
+2014,virginia,Binders,33,16,7,5,7
+2014,virginia,Envelopes,252,113,36,7,36
+2014,virginia,Fasteners,29,14,3,9,3
+2014,virginia,Labels,8,4,4,2,4
+2014,virginia,Paper,154,73,7,21,7
+2014,virginia,Storage,1643,386,103,16,103
+2014,virginia,Supplies,232,12,116,2,116
+2014,virginia,Accessories,76,28,15,5,15
+2014,virginia,Phones,982,250,76,13,76
+2014,arizona,Bookcases,210,-357,30,7,30
+2014,arizona,Chairs,2610,-29,174,15,174
+2014,arizona,Furnishings,311,46,19,16,19
+2014,arizona,Tables,1371,-770,86,16,86
+2014,arizona,Art,122,11,10,12,10
+2014,arizona,Binders,267,-186,6,45,6
+2014,arizona,Envelopes,55,20,6,10,6
+2014,arizona,Fasteners,8,3,3,3,3
+2014,arizona,Paper,1042,366,27,39,27
+2014,arizona,Storage,1054,-68,36,29,36
+2014,arizona,Accessories,923,54,29,32,29
+2014,arizona,Machines,696,-544,99,7,99
+2014,arizona,Phones,2465,177,91,27,91
+2014,california,Bookcases,8763,538,123,71,123
+2014,california,Chairs,13679,326,104,131,104
+2014,california,Furnishings,5847,1630,26,225,26
+2014,california,Tables,12386,-4,128,97,128
+2014,california,Appliances,12197,3424,82,148,82
+2014,california,Art,2133,633,8,281,8
+2014,california,Binders,18113,6417,45,399,45
+2014,california,Envelopes,429,208,9,47,9
+2014,california,Fasteners,129,53,3,45,3
+2014,california,Labels,928,442,8,119,8
+2014,california,Paper,5651,2701,17,333,17
+2014,california,Storage,15267,2667,71,214,71
+2014,california,Supplies,605,110,16,37,16
+2014,california,Accessories,13536,4115,60,224,60
+2014,california,Copiers,12160,3873,434,28,434
+2014,california,Machines,8711,916,363,24,363
+2014,california,Phones,16197,1354,75,216,75
+2014,colorado,Bookcases,615,-941,31,20,31
+2014,colorado,Chairs,1486,39,165,9,165
+2014,colorado,Furnishings,675,36,23,30,23
+2014,colorado,Appliances,241,30,48,5,48
+2014,colorado,Art,13,1,2,6,2
+2014,colorado,Binders,177,-131,4,46,4
+2014,colorado,Envelopes,63,23,4,15,4
+2014,colorado,Fasteners,12,2,2,6,2
+2014,colorado,Labels,12,4,6,2,6
+2014,colorado,Paper,149,52,11,14,11
+2014,colorado,Storage,892,-32,45,20,45
+2014,colorado,Supplies,1380,-294,153,9,153
+2014,colorado,Accessories,946,90,26,36,26
+2014,colorado,Machines,2550,-3400,510,5,510
+2014,colorado,Phones,1089,83,64,17,64
+2014,idaho,Furnishings,77,18,13,6,13
+2014,idaho,Appliances,228,66,57,4,57
+2014,idaho,Binders,21,8,7,3,7
+2014,idaho,Paper,38,18,19,2,19
+2014,idaho,Storage,477,29,95,5,95
+2014,idaho,Accessories,90,38,30,3,30
+2014,idaho,Phones,302,23,101,3,101
+2014,montana,Paper,12,5,6,2,6
+2014,montana,Storage,1217,81,111,11,111
+2014,montana,Copiers,3000,1380,600,5,600
+2014,nevada,Furnishings,196,71,39,5,39
+2014,nevada,Tables,1670,117,418,4,418
+2014,nevada,Appliances,65,19,13,5,13
+2014,nevada,Art,4,2,2,2,2
+2014,nevada,Binders,244,83,20,12,20
+2014,nevada,Phones,1123,70,125,9,125
+2014,new mexico,Furnishings,587,132,49,12,49
+2014,new mexico,Art,4,1,1,3,1
+2014,new mexico,Binders,90,33,9,10,9
+2014,new mexico,Labels,18,9,4,5,4
+2014,new mexico,Paper,577,276,24,24,24
+2014,new mexico,Storage,246,70,15,16,15
+2014,new mexico,Supplies,17,4,9,2,9
+2014,new mexico,Accessories,1071,246,77,14,77
+2014,new mexico,Phones,208,56,17,12,17
+2014,oregon,Bookcases,290,-513,36,8,36
+2014,oregon,Chairs,478,48,239,2,239
+2014,oregon,Furnishings,423,61,47,9,47
+2014,oregon,Tables,177,-121,35,5,35
+2014,oregon,Appliances,11,1,11,1,11
+2014,oregon,Art,127,19,10,13,10
+2014,oregon,Binders,122,-83,5,24,5
+2014,oregon,Fasteners,11,-2,4,3,4
+2014,oregon,Labels,71,27,12,6,12
+2014,oregon,Paper,56,20,6,10,6
+2014,oregon,Storage,38,2,13,3,13
+2014,oregon,Supplies,45,5,6,8,6
+2014,oregon,Accessories,344,84,31,11,31
+2014,oregon,Phones,693,76,116,6,116
+2014,utah,Bookcases,1293,78,431,3,431
+2014,utah,Furnishings,25,11,13,2,13
+2014,utah,Art,38,12,13,3,13
+2014,utah,Binders,446,161,22,20,22
+2014,utah,Labels,14,7,3,5,3
+2014,utah,Paper,184,90,31,6,31
+2014,utah,Storage,262,65,131,2,131
+2014,utah,Phones,198,54,15,13,15
+2014,washington,Bookcases,717,165,72,10,72
+2014,washington,Chairs,7194,239,147,49,147
+2014,washington,Furnishings,1857,581,25,75,25
+2014,washington,Tables,8768,1303,251,35,251
+2014,washington,Appliances,1013,301,63,16,63
+2014,washington,Art,240,80,7,34,7
+2014,washington,Binders,7269,2425,46,158,46
+2014,washington,Fasteners,82,25,3,28,3
+2014,washington,Labels,894,437,32,28,32
+2014,washington,Paper,1649,783,15,113,15
+2014,washington,Storage,5806,647,65,90,65
+2014,washington,Supplies,92,10,12,8,12
+2014,washington,Accessories,9120,2798,101,90,101
+2014,washington,Copiers,14300,6810,2860,5,2860
+2014,washington,Machines,3821,444,318,12,318
+2014,washington,Phones,2718,210,49,55,49
